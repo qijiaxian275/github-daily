@@ -1,5 +1,11 @@
 # GitHub 日报 · 中文版
 
+在线网址：https://qijiaxian275.github.io/github-daily/
+
+源码与运行记录：https://github.com/qijiaxian275/github-daily
+
+已配置每天约 09:17（UTC+8）由 GitHub Actions 主动抓取、翻译、按日期存档并发布。访客无需 ChatGPT 或 GitHub 登录，也不需要 ChatGPT 会员。首轮更新与发布已验证成功。
+
 一个不依赖 ChatGPT 账号、会员或大模型 API 的开源资讯聚合站。Node.js 普通脚本抓取公开 RSS/Atom 和 GitHub 仓库搜索；预生成静态 HTML/JSON，由 GitHub Pages 或其他静态主机提供阅读。
 
 ## 功能
