@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T15:27:28.384Z",
-  "lastAttemptAt": "2026-11-15T15:27:28.384Z",
+  "updatedAt": "2026-11-15T15:55:04.212Z",
+  "lastAttemptAt": "2026-11-15T15:55:04.212Z",
   "items": [
     {
       "id": "changelog:https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
@@ -422,7 +422,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8834,
+      "stars": 8850,
       "language": "未标注",
       "titleZh": "janestreet/agent_skills",
       "descriptionZh": "客服代表技能"
@@ -450,7 +450,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8944,
+      "stars": 8950,
       "language": "Rust",
       "titleZh": "Minireel/HGhub",
       "descriptionZh": "插件媒体播放器"
@@ -478,7 +478,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 33478,
+      "stars": 33495,
       "language": "Rust",
       "titleZh": "storytold/craft-anything",
       "descriptionZh": "打造任何事物：了解任何软件的运作方式，并打造您自己的软件。"
@@ -494,7 +494,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9302,
+      "stars": 9308,
       "language": "C++",
       "titleZh": "zortos293/Lichii",
       "descriptionZh": "非常实验性的 Nintendo Switch 2 模拟器"
@@ -510,7 +510,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 23242,
+      "stars": 23250,
       "language": "TypeScript",
       "titleZh": "deepseek-ai/dsh-superagent-prototype",
       "descriptionZh": "迈向更自主的代理系统"
@@ -540,7 +540,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8981,
+      "stars": 9003,
       "language": "Python",
       "titleZh": "JuneYaooo/rea-video",
       "descriptionZh": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。"
@@ -556,7 +556,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 16473,
+      "stars": 16498,
       "language": "JavaScript",
       "titleZh": "heydamir/unslop",
       "descriptionZh": "一种 Claude 技能，可将采用 VibeCode 的、看起来像 AI 的 UI 转换为经过设计的界面"
@@ -572,7 +572,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8686,
+      "stars": 8689,
       "language": "Kotlin",
       "titleZh": "wangzan101/Mika",
       "descriptionZh": "一款适用于 Android 的设备端 AI 代理，可操作应用程序和网页为您完成任务。"
@@ -588,7 +588,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10086,
+      "stars": 10102,
       "language": "Rust",
       "titleZh": "anefzaoui/misterdownloadmanager",
       "descriptionZh": "misterdownloadmanager：终极开源、无污染下载管理器，完全使用纯 Rust 语言从头编写，适用于 Windows、Mac 和 Linux"
@@ -686,7 +686,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 23547,
+      "stars": 23571,
       "language": "Dart",
       "titleZh": "ccch1mneyyy/dsh-Go",
       "descriptionZh": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
@@ -702,7 +702,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8119,
+      "stars": 8123,
       "language": "Python",
       "titleZh": "rddmwmddr/android-ad-cleaner",
       "descriptionZh": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
@@ -760,7 +760,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9037,
+      "stars": 9040,
       "language": "TypeScript",
       "titleZh": "l0ng-ai/openidea",
       "descriptionZh": "您所熟悉的 IDE，以 Rust 语言重新构建。一款快速的本地应用程序，具备 IntelliJ IDEA 风格的键盘映射、工具窗口和“全局搜索”功能：编辑器、代码提示、调试器、Git、终端、数据库和 HTTP 客户端，支持 60 多种语言。"
@@ -832,7 +832,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11999,
+      "stars": 12002,
       "language": "Kotlin",
       "titleZh": "pengchujin/aerial-tv",
       "descriptionZh": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
@@ -848,7 +848,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8129,
+      "stars": 8131,
       "language": "Python",
       "titleZh": "xiaoyang111222/cn-math-taxonomy",
       "descriptionZh": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
@@ -864,7 +864,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 19657,
+      "stars": 19666,
       "language": "C",
       "titleZh": "Zagitta/gpu-unlock",
       "descriptionZh": "您的 GeForce 以半速运行 AI。此工具可为 20/30/40 系列显卡解决此问题。高达 2 倍的 FP16/BF16/TF32 张量吞吐量"
@@ -880,7 +880,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 58143,
+      "stars": 58151,
       "language": "Python",
       "titleZh": "Gathin23/cleanyourtv",
       "descriptionZh": "通过 Wi-Fi 卸载任何 Android 或 Google TV 的臃肿软件，打造 Apple TV 风格的家居。"
@@ -896,7 +896,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9530,
+      "stars": 9536,
       "language": "TypeScript",
       "titleZh": "amosblomqvist/learnharness",
       "descriptionZh": "用于学习难点的代理线束。"
@@ -928,7 +928,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8654,
+      "stars": 8667,
       "language": "JavaScript",
       "titleZh": "kingcharleslzy-ai/dsh-purge",
       "descriptionZh": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。"
@@ -996,7 +996,7 @@
       "label": "GitHub Blog",
       "url": "https://github.blog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-15T15:27:28.384Z",
+      "updatedAt": "2026-11-15T15:55:04.212Z",
       "etag": "W/\"e4ba3f1e905c25a576ac192ccb8c33d5\"",
       "lastModified": "Fri, 13 Nov 2026 20:56:18 GMT"
     },
@@ -1005,7 +1005,7 @@
       "label": "GitHub Changelog",
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-15T15:27:28.384Z",
+      "updatedAt": "2026-11-15T15:55:04.212Z",
       "etag": "W/\"e4ba3f1e905c25a576ac192ccb8c33d5\"",
       "lastModified": "Fri, 13 Nov 2026 20:56:18 GMT"
     },
@@ -1014,7 +1014,7 @@
       "label": "GitHub CLI",
       "url": "https://github.com/cli/cli/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-15T15:27:28.384Z",
+      "updatedAt": "2026-11-15T15:55:04.212Z",
       "etag": "W/\"f9e61f2d1a918d457d2b905861f5947f\""
     },
     {
@@ -1022,7 +1022,7 @@
       "label": "Node.js",
       "url": "https://github.com/nodejs/node/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-15T15:27:28.384Z",
+      "updatedAt": "2026-11-15T15:55:04.212Z",
       "etag": "W/\"0a44e929c450f2712424e8fa612c9032\""
     },
     {
@@ -1030,7 +1030,7 @@
       "label": "Vite",
       "url": "https://github.com/vitejs/vite/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-15T15:27:28.384Z",
+      "updatedAt": "2026-11-15T15:55:04.212Z",
       "etag": "W/\"87d490b39638c938052c8e93541b0bde\""
     },
     {
@@ -1038,7 +1038,7 @@
       "label": "GitHub 近期新项目",
       "url": "https://api.github.com/search/repositories",
       "status": "ok",
-      "updatedAt": "2026-11-15T15:27:28.384Z"
+      "updatedAt": "2026-11-15T15:55:04.212Z"
     }
   ],
   "successfulSources": 6,
@@ -1050,14 +1050,14 @@
     "error": null,
     "used": 3952,
     "dailyBudget": 4000,
-    "checkedAt": "2026-11-15T15:47:39.593Z"
+    "checkedAt": "2026-11-15T15:55:05.497Z"
   },
   "automation": {
-    "enabled": false,
+    "enabled": true,
     "engine": "github-actions",
     "scheduleLabel": "每日约 09:17（UTC+8）",
-    "repository": null
+    "repository": "qijiaxian275/github-daily"
   },
-  "isScheduled": false,
+  "isScheduled": true,
   "archiveDate": "2026-11-15"
 }
