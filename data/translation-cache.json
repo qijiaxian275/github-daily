@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "entries": {
+    "11d525c76dc8cfc185fa032e282e6ec9ece53e36f93bcb2eb0fd69d778753ed2": {
+      "text": "所选 GitHub Copilot 模型将于 12 月即将弃用",
+      "at": "2026-11-15T15:25:02.419Z"
+    },
+    "2c5f409ad6d484284ba838313a67f2daf89999cfdf6ff310c67287a271dc54b0": {
+      "text": "GitHub Copilot 应用中的 GitHub Enterprise Server 支持",
+      "at": "2026-11-15T15:25:04.894Z"
+    },
+    "81b7e52ee05c2b6f80c8cb54ab7168b6cf7158fc1e849f8ba0f6046c253ac12f": {
+      "text": "GitHub Copilot 中的 Gemini 4 Hydrogen",
+      "at": "2026-11-15T15:25:05.749Z"
+    },
+    "25c4622b81ca553aeaa9bcfeebc3855d33500ca88dd3d2783ecd256e0fc73808": {
+      "text": "使用REST API管理代码仓库的AI扫描",
+      "at": "2026-11-15T15:25:06.680Z"
+    },
+    "6ae4b797b71e49b414685d007cc29a3b5c79271c8fdaa9fa55b9d6a65e9ea14a": {
+      "text": "GitHub 可用性报告：2026 年 10 月",
+      "at": "2026-11-15T15:25:07.464Z"
+    },
+    "a727c4da00c1ed2e8cb1d2f022b4bfdf8e2bb17ec03a12b11cdf8ca3e3080ea7": {
+      "text": "一次构建，在任何代理上运行：代理技能实用指南",
+      "at": "2026-11-15T15:25:08.371Z"
+    },
+    "e5989309f45539315b986608dd8e34fb4f22e57fca0c5d847667fb3487e0959c": {
+      "text": "针对 ARM32 Linux 和 Windows 退役的操作",
+      "at": "2026-11-15T15:25:09.255Z"
+    },
+    "068fbed694e2d5bb21b28fd9883c82bc2e84b879826ac160f6460769491e9c1e": {
+      "text": "“密钥扫描”功能可检测到 Cloudflare 服务令牌",
+      "at": "2026-11-15T15:25:10.099Z"
+    },
+    "0d1f64b7c09368baa38244e0f4616cc7051da62f60baef4ab97284115ffdd1ec": {
+      "text": "公共监控提醒现已提供直接链接",
+      "at": "2026-11-15T15:25:10.898Z"
+    },
+    "eb06460009e355eaecfe9dc1839e5cede53b4a17bb3e0e8e2319663237bd83e8": {
+      "text": "个人账号可以使用问题类型和字段",
+      "at": "2026-11-15T15:25:11.897Z"
+    },
+    "f814a8186c7fe0fd1b07b352af1ae4e28fb722750395c13954d40aa8f48275e1": {
+      "text": "GitHub 应用对 Enterprise Copilot 座席管理的支持",
+      "at": "2026-11-15T15:25:12.758Z"
+    },
+    "26b49cf2d0eaf48d3733e0a1c2f4d1676362223f613b49498852fc409d0cc4a3": {
+      "text": "GitHub Copilot 中的 Gemini 4 Carbon",
+      "at": "2026-11-15T15:25:13.628Z"
+    },
+    "6143c817c4564beb1cfd8f3f7d6b98d80c49677515bcbdbda7057ab61082001b": {
+      "text": "已公布 Git 安全漏洞",
+      "at": "2026-11-15T15:25:14.451Z"
+    },
+    "3a49ecff22dee585aec1d7334baf1ecf8777551783562e947eba5ab2378253e0": {
+      "text": "超越代码生成：面向开发人员的代理工程指南",
+      "at": "2026-11-15T15:25:15.316Z"
+    },
+    "a71e4a53454f66d399baba9f1a712764e170125c189c7eabce3a6cc1be50a9d6": {
+      "text": "GitHub 新的 Git 存储架构详解",
+      "at": "2026-11-15T15:25:16.115Z"
+    },
+    "42d77346c1d9e92ebe0959e3f859cda85a2cae58e36001795ebcf7ca8ffff776": {
+      "text": "无障碍声明现已在 GitHub 上有专属页面",
+      "at": "2026-11-15T15:25:17.058Z"
+    },
+    "4a64c01ac68718acb800586fe3b4aaea27aba5452e785ca6ef7ce3939b55c41d": {
+      "text": "Arnis能将地球上的任何地方变成一个《我的世界》世界",
+      "at": "2026-11-15T15:25:17.947Z"
+    },
+    "30aee8ffc217007c3d931f7f8faf8ec1645b1924b84c5aac1ae9b1095b69780a": {
+      "text": "2026年Game Off：主题是“转变”",
+      "at": "2026-11-15T15:25:18.817Z"
+    },
+    "d48058f5165195538462b26eb05607b8bf0666c26142a5a5839d320c6e2bf772": {
+      "text": "GitHub Universe 2026：让技术栈的每一层都不断演进",
+      "at": "2026-11-15T15:25:19.846Z"
+    },
+    "63a858aca61bd98c365167e3764059565858264031ae5ab5c5d105fb4397d397": {
+      "text": "Octoverse：随着开发者使用代理进行开发，提交和推送将在2026年创下新高",
+      "at": "2026-11-15T15:25:20.901Z"
+    },
+    "70c2d9c30ff1c388c0d78b5d2d3dd577855a7008028a62c2b8014b24e554976b": {
+      "text": "客服代表技能",
+      "at": "2026-11-15T15:25:22.286Z"
+    },
+    "b67420224bfac45de7b7d1d2139d71f3735fe3b323be5226f060aabd9694f2ac": {
+      "text": "YellowFruit 第三方客户端",
+      "at": "2026-11-15T15:25:23.094Z"
+    },
+    "d9757c678753c4393744e3689bdc37cfcc64b890c4bc75f90ba3ea16745ca338": {
+      "text": "打造任何事物：了解任何软件的运作方式，并打造您自己的软件。",
+      "at": "2026-11-15T15:25:24.002Z"
+    },
+    "9f13cc16c05080fa54fe1cd2f95c7b288f1e5a4ae0d5148844113ae188cad097": {
+      "text": "非常实验性的 Nintendo Switch 2 模拟器",
+      "at": "2026-11-15T15:25:24.877Z"
+    },
+    "d05202c3b8bc42fe754ae1af78bd417543aef0f3054ba8ce8f4c817f42d01e07": {
+      "text": "迈向更自主的代理系统",
+      "at": "2026-11-15T15:25:25.760Z"
+    },
+    "22d27d09a30e668943b1d7c95ac98eb52c25e68c2b1c8b19015890b0e3688dda": {
+      "text": "一种 Claude 技能，可将采用 VibeCode 的、看起来像 AI 的 UI 转换为经过设计的界面",
+      "at": "2026-11-15T15:25:26.645Z"
+    },
+    "210987b1eab317f7aeaf068ab75277de48c7b8a2aeba6e04fc82b72de76965a0": {
+      "text": "一款适用于 Android 的设备端 AI 代理，可操作应用程序和网页为您完成任务。",
+      "at": "2026-11-15T15:25:27.525Z"
+    },
+    "d2dec8cd325b5f68ad5fa136ff5071f252552e5f21593bcceab7ca57b0a2a719": {
+      "text": "misterdownloadmanager：终极开源、无污染下载管理器，完全使用纯 Rust 语言从头编写，适用于 Windows、Mac 和 Linux",
+      "at": "2026-11-15T15:25:28.561Z"
+    },
+    "9dafb090f1cafd9a88f557c82f360e0090d5079cc2255ed9f13ea928ba9b3f9a": {
+      "text": "您所熟悉的 IDE，以 Rust 语言重新构建。一款快速的本地应用程序，具备 IntelliJ IDEA 风格的键盘映射、工具窗口和“全局搜索”功能：编辑器、代码提示、调试器、Git、终端、数据库和 HTTP 客户端，支持 60 多种语言。",
+      "at": "2026-11-15T15:25:29.764Z"
+    },
+    "f8489e240c24d0c0a2d8027b1d05f65f952bb5a60663018a5d56235469d95e17": {
+      "text": "您的 GeForce 以半速运行 AI。此工具可为 20/30/40 系列显卡解决此问题。高达 2 倍的 FP16/BF16/TF32 张量吞吐量",
+      "at": "2026-11-15T15:25:30.718Z"
+    },
+    "341a1ba707d85c3b1727a1aaf527d74af6ec13e72ea4cac2e7bed60cabf67a2b": {
+      "text": "通过 Wi-Fi 卸载任何 Android 或 Google TV 的臃肿软件，打造 Apple TV 风格的家居。",
+      "at": "2026-11-15T15:25:31.644Z"
+    },
+    "dfb46574014e907961e0373a0594eaaa230401fd9b3399b2038c6437567fa667": {
+      "text": "用于学习难点的代理线束。",
+      "at": "2026-11-15T15:25:32.554Z"
+    },
+    "0392a5c49f79e55efc2c42238fe1a80c6363544ba78cfd27833acd6d92fbfd8b": {
+      "text": "DeepInfer：适用于 DeepSeek 模型的高性能大规模推理框架",
+      "at": "2026-11-15T15:25:33.476Z"
+    },
+    "301405911345f9e04072d1f01503d464d3add36df0ecacf7b8af693a72d959cb": {
+      "text": "2026年12月14日，我们将弃用所有GitHub Copilot体验（包括Copilot聊天、内联编辑、提问和代理模式以及代码补全）中的以下模型：模型弃用日期……文章“12月即将弃用的部分GitHub Copilot模型”最初发布于T",
+      "at": "2026-11-15T15:25:34.883Z"
+    },
+    "c55c279c2cbab1090384f611afdbcfc2df5c8fc107952376ec2d9dfd9297bf1e": {
+      "text": "您现在可以将您在GitHub Enterprise Server (GHES) 上的工作带入GitHub Copilot应用。添加您的GHES账户，以便使用远程仓库、问题和拉取请求。这……文章《GitHub Copilot应用支持GitHub Enterprise Server》最初发布在GitHub博客上。",
+      "at": "2026-11-15T15:25:35.881Z"
+    },
+    "0210fd3b4745fad6eb535a9517275bb872050676c2699c9df5a8889514d26b79": {
+      "text": "Google 最新 Flash 模型 Gemini 4 Hydrogen 现已在 GitHub Copilot 中全面推出。它专为快速、高效的代理编码、工具使用和多步工作流程而设计，并改进了指令……文章《GitHub Copilot中的Gemini 4 Hydrogen》最初发布在The GitHub Blog上。",
+      "at": "2026-11-15T15:25:37.014Z"
+    },
+    "b814c5afd4f802df1c7deecd4e31796186624e8d514c39f6fc104fcf920d1856": {
+      "text": "现在，您可以使用REST API在组织和仓库级别启用或禁用GitHub代码扫描的仓库AI扫描功能。此公开预览版新增了repository_scan… 博文《使用REST API管理代码仓库的AI扫描》最初发布于GitHub博客。",
+      "at": "2026-11-15T15:25:38.224Z"
+    },
+    "20ccf4e1c3a0e3560e4ec76a50265b0dfce9cae71e6c95a594719029ca44a682": {
+      "text": "10月份，我们经历了八起导致GitHub服务性能下降的事件。这篇文章“GitHub可用性报告：2026年10月”最初发布在GitHub博客上。",
+      "at": "2026-11-15T15:25:39.154Z"
+    },
+    "79a7d4e21203085ea3a0958b9252b02cd98ad41f8a271147251216531db4da05": {
+      "text": "代理技能将可重复的工程工作记录在文件里，供团队审查和重复使用，而工具、项目上下文和权限则仍仅限于运行它们的主机。博文“一次构建，在任何代理上运行：代理技能实用指南”最初发布在GitHub博客上。",
+      "at": "2026-11-15T15:25:40.273Z"
+    },
+    "ebb037a7f9127089c0f96ce8930cdd6c7d303dd0534f40b787ce07420a7d8a97": {
+      "text": "GitHub Actions 托管 Runner 将于 2026 年 12 月 8 日停止对 Windows 和 Linux 上 ARM32 作业执行的支持。在此之前，我们已停止对node20的支持，其中Node… 文章“ARM32 Linux和Windows的Actions即将停用”最初发布于GitHub博客。",
+      "at": "2026-11-15T15:25:41.419Z"
+    },
+    "a31b786e9396d766ce90a111fdc74116977fdf702972e224d35589aaa8132a40": {
+      "text": "插件媒体播放器",
+      "at": "2026-11-15T15:27:32.605Z"
+    }
+  },
+  "day": "2026-11-15",
+  "used": 3952
+}
