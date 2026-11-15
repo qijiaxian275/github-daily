@@ -23,6 +23,16 @@ test('feed parser rejects unsafe article links and removes markup',()=>{
   const xml='<rss><channel><item><title>Bad</title><link>javascript:alert(1)</link><pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate></item><item><title>Good &amp; safe</title><link>https://github.blog/good</link><pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate><description><![CDATA[<script>bad()</script><p>Good text</p>]]></description></item></channel></rss>';
   const items=parseFeed(xml,source); assert.equal(items.length,1); assert.equal(items[0].title,'Good & safe'); assert.equal(items[0].description,'Good text');
 });
+test('official RSS summaries omit syndicated boilerplate before truncating',()=>{
+  const body='A useful change for developers.';
+  const xml='<rss><channel><item><title>Feature</title><link>https://github.blog/feature</link><pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate><description><![CDATA[<p>'+body+'</p><p>The post <a href="https://github.blog/feature">Feature</a> appeared first on GitHub Blog.</p>]]></description></item></channel></rss>';
+  const items=parseFeed(xml,SOURCES.find(s=>s.id==='blog'));
+  assert.equal(items[0].description,body);
+});
+test('release titles do not repeat an existing product prefix',()=>{
+  const xml='<feed><entry><title>GitHub CLI 2.104.0</title><link rel="alternate" href="https://github.com/cli/cli/releases/tag/v2.104.0"/><updated>2026-11-15T00:00:00Z</updated><content>Release notes</content></entry></feed>';
+  assert.equal(parseFeed(xml,SOURCES.find(s=>s.id==='cli'))[0].title,'GitHub CLI 2.104.0');
+});
 test('translation budget persists across same-day runs and cache avoids repeated calls',async()=>{
   let calls=0; const fetcher=async()=>{calls++;return Response.json({responseStatus:200,responseData:{translatedText:'新的功能'}});};
   const input=[{kind:'official',title:'New feature',description:'',id:'1'}];

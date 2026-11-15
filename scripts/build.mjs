@@ -5,7 +5,10 @@ const root = fileURLToPath(new URL('../', import.meta.url));
 const data = JSON.parse(await readFile(path.join(root, 'public/data/news.json'), 'utf8'));
 try { data.historyEntries=JSON.parse(await readFile(path.join(root,'public/history/index.json'),'utf8')).entries; } catch { data.historyEntries=[]; }
 if (!Array.isArray(data.items) || !data.items.length) throw new Error('No news snapshot to publish');
-let html = await readFile(path.join(root, 'src/index.html'), 'utf8');
+let html = (await readFile(path.join(root, 'src/index.html'), 'utf8')).replace(/\r\n/g,'\n');
+const app=(await readFile(path.join(root,'src/app.js'),'utf8')).replace(/\r\n/g,'\n');
+if(!html.includes('<script id="reader-app"></script>'))throw new Error('Missing app script placeholder');
+html=html.replace('<script id="reader-app"></script>',()=>'<script id="reader-app">\n'+app.replace(/<\/script/gi,'<\\/script')+'\n</script>');
 const seed = JSON.stringify(data).replace(/</g, '\\u003c');
 html = html.replace(/(<script\b[^>]*id=["']seed-data["'][^>]*>)[\s\S]*?(<\/script>)/i, (_, open, close) => open + seed + close);
 await mkdir(path.join(root, 'public'), { recursive: true });

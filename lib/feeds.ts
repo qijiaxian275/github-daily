@@ -37,8 +37,11 @@ export function parseFeed(xml:string, source:typeof SOURCES[number]):NewsItem[] 
     const date=new Date(plain(field(block,atom?"updated":"pubDate")));
     if(!url||!title||!Number.isFinite(date.getTime()))return null;
     const release=source.kind==="release";
-    const description=plain(field(block,atom?"content":"description")||field(block,"summary")).replace(/^Git-EVTag-v0-SHA512:\s*[a-f0-9]+\s*/i,"").slice(0,300);
-    return {id:source.id+":"+url,kind:source.kind,title:release?source.label+" · "+title:title,
+    let description=plain(field(block,atom?"content":"description")||field(block,"summary")).replace(/^Git-EVTag-v0-SHA512:\s*[a-f0-9]+\s*/i,"");
+    if(source.id==="blog"||source.id==="changelog")description=description.replace(/\s*The post\b[\s\S]*?\bappeared first on\b[\s\S]*$/i,"").trim();
+    description=description.slice(0,300);
+    const alreadyLabeled=title.toLowerCase().startsWith(source.label.toLowerCase()+" ")||title.toLowerCase().startsWith(source.label.toLowerCase()+" ·");
+    return {id:source.id+":"+url,kind:source.kind,title:release&&!alreadyLabeled?source.label+" · "+title:title,
       description:description||(release?"查看完整发布说明与变更记录。":""),
       url,publishedAt:date.toISOString(),source:source.label,sourceId:source.id,tag:release?"版本发布":source.id==="changelog"?"产品更新":"官方博客"};
   }).filter((v):v is NewsItem=>!!v).slice(0,20);
