@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T16:35:00.235Z",
-  "lastAttemptAt": "2026-11-15T16:35:00.235Z",
+  "updatedAt": "2026-11-16T02:25:38.748Z",
+  "lastAttemptAt": "2026-11-16T02:25:38.748Z",
   "items": [
     {
       "id": "changelog:https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
@@ -117,7 +117,8 @@
       "source": "GitHub Changelog",
       "sourceId": "changelog",
       "tag": "产品更新",
-      "titleZh": "“密钥扫描”功能可检测到 Cloudflare 服务令牌"
+      "titleZh": "“密钥扫描”功能可检测到 Cloudflare 服务令牌",
+      "descriptionZh": "密钥扫描现可检测 Cloudflare 服务令牌。已添加检测器密钥扫描现在会自动检测您代码仓库中的以下新密钥类型。提供商密钥类型 Cloudflare cloudflare_access_service_token 合作伙伴密钥是……文章《密钥扫描检测到 Cloudflare 服务》"
     },
     {
       "id": "changelog:https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
@@ -129,7 +130,8 @@
       "source": "GitHub Changelog",
       "sourceId": "changelog",
       "tag": "产品更新",
-      "titleZh": "公共监控提醒现已提供直接链接"
+      "titleZh": "公共监控提醒现已提供直接链接",
+      "descriptionZh": "您现在可以通过指向每个警报的直接链接访问各个公开监控警报。在您所在企业的“公开监控”视图中，点击警报编号即可打开该警报。您……这篇文章《公共监控警报现已提供直接链接》最初发布在GitHub博客上。"
     },
     {
       "id": "node:https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0",
@@ -155,7 +157,8 @@
       "source": "GitHub Changelog",
       "sourceId": "changelog",
       "tag": "产品更新",
-      "titleZh": "个人账号可以使用问题类型和字段"
+      "titleZh": "个人账号可以使用问题类型和字段",
+      "descriptionZh": "问题类型和问题字段现已在个人账户拥有的代码仓库中普遍提供。这为个人开发者和开源维护者提供了相同的规划能力，以便实现标准化……文章“个人账户可以使用问题类型和字段”最初发布于 T"
     },
     {
       "id": "node:https://github.com/nodejs/node/releases/tag/v26.13.1",
@@ -223,7 +226,8 @@
       "source": "GitHub Changelog",
       "sourceId": "changelog",
       "tag": "产品更新",
-      "titleZh": "GitHub 应用对 Enterprise Copilot 座席管理的支持"
+      "titleZh": "GitHub 应用对 Enterprise Copilot 座席管理的支持",
+      "descriptionZh": "企业版GitHub应用现在可以调用企业级Copilot席位管理API，以控制为哪些用户和企业团队分配Copilot席位。Copilot席位管理API现已开放……文章《GitHub App支持企业Copilot席位管理》最初发布于The GitH"
     },
     {
       "id": "changelog:https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
@@ -235,7 +239,8 @@
       "source": "GitHub Changelog",
       "sourceId": "changelog",
       "tag": "产品更新",
-      "titleZh": "GitHub Copilot 中的 Gemini 4 Carbon"
+      "titleZh": "GitHub Copilot 中的 Gemini 4 Carbon",
+      "descriptionZh": "Google 的最新模型 Gemini 4 Carbon 现已在 GitHub Copilot 中全面推出。它专为复杂的编码、代理和推理任务而设计，重点是安全的代码生成……文章《GitHub Copilot 中的 Gemini 4 Carbon》最初发布在 GitHub 博客上。"
     },
     {
       "id": "blog:https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
@@ -247,7 +252,8 @@
       "source": "GitHub Blog",
       "sourceId": "blog",
       "tag": "官方博客",
-      "titleZh": "已公布 Git 安全漏洞"
+      "titleZh": "已公布 Git 安全漏洞",
+      "descriptionZh": "Git 即将发布更新，以解决影响递归克隆、引用处理、合并、二进制补丁和导入的六个安全漏洞。以下是用户需要了解的内容。这篇题为“宣布 Git 安全漏洞”的文章最初发布在 GitHub 博客上。"
     },
     {
       "id": "vite:https://github.com/vitejs/vite/releases/tag/v8.3.7",
@@ -334,6 +340,22 @@
       "translationKind": "category-summary"
     },
     {
+      "id": "projects:huamidev/GestaltX",
+      "kind": "project",
+      "title": "huamidev/GestaltX",
+      "repo": "huamidev/GestaltX",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "url": "https://github.com/huamidev/GestaltX",
+      "publishedAt": "2026-11-09T05:15:48Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 7748,
+      "language": "Swift",
+      "titleZh": "huamidev/GestaltX",
+      "descriptionZh": "适用于 iOS 27.x 的 MobileGestalt 编辑器，具备区域代码调整、设备预设、备份等功能。"
+    },
+    {
       "id": "blog:https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "kind": "official",
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -343,7 +365,8 @@
       "source": "GitHub Blog",
       "sourceId": "blog",
       "tag": "官方博客",
-      "titleZh": "超越代码生成：面向开发人员的代理工程指南"
+      "titleZh": "超越代码生成：面向开发人员的代理工程指南",
+      "descriptionZh": "编写代码的速度更快了。但与之相关的其他工作并没有变得更快。了解如何使用 GitHub Copilot 进行规划、编写代码、审核更改和调查生产问题，以及哪些工作仍需要您做出判断。文章《超越代码生成：面向开发人员的智能体工程指南》最初发布于 The GitH"
     },
     {
       "id": "blog:https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
@@ -355,7 +378,8 @@
       "source": "GitHub Blog",
       "sourceId": "blog",
       "tag": "官方博客",
-      "titleZh": "GitHub 新的 Git 存储架构详解"
+      "titleZh": "GitHub 新的 Git 存储架构详解",
+      "descriptionZh": "GitHub 的新 Git 存储架构旨在让数千个代理能够同时推送到单个仓库。其工作原理如下。博文《GitHub 新的 Git 存储架构详解》最初发布于 GitHub 博客。"
     },
     {
       "id": "blog:https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
@@ -367,7 +391,8 @@
       "source": "GitHub Blog",
       "sourceId": "blog",
       "tag": "官方博客",
-      "titleZh": "无障碍声明现已在 GitHub 上有专属页面"
+      "titleZh": "无障碍声明现已在 GitHub 上有专属页面",
+      "descriptionZh": "GitHub 现在突出显示 ACCESSIBILITY.md 文件，并帮助维护者记录无障碍目标、已知障碍、支持的环境、对贡献者的期望以及报告流程。文章“无障碍声明现已在 GitHub 上有专属位置”最初发布于 GitHub 博客。"
     },
     {
       "id": "vite:https://github.com/vitejs/vite/releases/tag/create-vite%409.3.4",
@@ -422,7 +447,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8864,
+      "stars": 9033,
       "language": "未标注",
       "titleZh": "janestreet/agent_skills",
       "descriptionZh": "客服代表技能"
@@ -437,7 +462,8 @@
       "source": "GitHub Blog",
       "sourceId": "blog",
       "tag": "官方博客",
-      "titleZh": "Arnis能将地球上的任何地方变成一个《我的世界》世界"
+      "titleZh": "Arnis能将地球上的任何地方变成一个《我的世界》世界",
+      "descriptionZh": "Louis Erbkamm在业余时间打造了第一个原型。现在，GitHub Copilot 帮助他独自维护该原型。这篇文章《Arnis 将地球上的任何地方都变成了 Minecraft 世界》最初发布在 GitHub 博客上。"
     },
     {
       "id": "projects:Minireel/HGhub",
@@ -450,7 +476,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8959,
+      "stars": 9031,
       "language": "Rust",
       "titleZh": "Minireel/HGhub",
       "descriptionZh": "插件媒体播放器"
@@ -465,7 +491,8 @@
       "source": "GitHub Blog",
       "sourceId": "blog",
       "tag": "官方博客",
-      "titleZh": "2026年Game Off：主题是“转变”"
+      "titleZh": "2026年Game Off：主题是“转变”",
+      "descriptionZh": "GitHub 为期一个月的年度游戏开发大赛已迎来第 14 个年头！今年11月，请以“SHIFT”（转变）为主题创作一款游戏。换挡、转换视角、扭曲现实，或者只是按一下某个键。文章《Game Off 2026：主题是“SHIFT”》最初发布于GitHub博客。"
     },
     {
       "id": "projects:storytold/craft-anything",
@@ -478,7 +505,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 33524,
+      "stars": 33842,
       "language": "Rust",
       "titleZh": "storytold/craft-anything",
       "descriptionZh": "打造任何事物：了解任何软件的运作方式，并打造您自己的软件。"
@@ -494,7 +521,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9316,
+      "stars": 9387,
       "language": "C++",
       "titleZh": "zortos293/Lichii",
       "descriptionZh": "非常实验性的 Nintendo Switch 2 模拟器"
@@ -510,7 +537,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 23258,
+      "stars": 23311,
       "language": "TypeScript",
       "titleZh": "deepseek-ai/dsh-superagent-prototype",
       "descriptionZh": "迈向更自主的代理系统"
@@ -540,7 +567,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9030,
+      "stars": 9232,
       "language": "Python",
       "titleZh": "JuneYaooo/rea-video",
       "descriptionZh": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。"
@@ -556,7 +583,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 16523,
+      "stars": 16789,
       "language": "JavaScript",
       "titleZh": "heydamir/unslop",
       "descriptionZh": "一种 Claude 技能，可将采用 VibeCode 的、看起来像 AI 的 UI 转换为经过设计的界面"
@@ -572,7 +599,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8696,
+      "stars": 8729,
       "language": "Kotlin",
       "titleZh": "wangzan101/Mika",
       "descriptionZh": "一款适用于 Android 的设备端 AI 代理，可操作应用程序和网页为您完成任务。"
@@ -588,7 +615,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10128,
+      "stars": 10464,
       "language": "Rust",
       "titleZh": "anefzaoui/misterdownloadmanager",
       "descriptionZh": "misterdownloadmanager：终极开源、无污染下载管理器，完全使用纯 Rust 语言从头编写，适用于 Windows、Mac 和 Linux"
@@ -631,7 +658,8 @@
       "source": "GitHub Blog",
       "sourceId": "blog",
       "tag": "官方博客",
-      "titleZh": "GitHub Universe 2026：让技术栈的每一层都不断演进"
+      "titleZh": "GitHub Universe 2026：让技术栈的每一层都不断演进",
+      "descriptionZh": "今天，我们阐述了GitHub的愿景，即成为世界上最全面的端到端软件交付系统。文章《GitHub Universe 2026：让技术栈的每一层都得到发展》最初发布于GitHub博客。"
     },
     {
       "id": "blog:https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
@@ -643,7 +671,8 @@
       "source": "GitHub Blog",
       "sourceId": "blog",
       "tag": "官方博客",
-      "titleZh": "Octoverse：随着开发者使用代理进行开发，提交和推送将在2026年创下新高"
+      "titleZh": "Octoverse：随着开发者使用代理进行开发，提交和推送将在2026年创下新高",
+      "descriptionZh": "在2026年Octoverse报告中，了解创纪录的增长年是如何惠及每个行业、每个领域和每类构建者的。文章《Octoverse：随着开发者使用代理进行构建，2026年的提交和推送次数将创下新高》最初发布在GitHub博客上。"
     },
     {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.103.3",
@@ -670,7 +699,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 7993,
+      "stars": 8005,
       "language": "未标注",
       "titleZh": "unclebob/ub-mode",
       "descriptionZh": "暂无项目描述"
@@ -686,7 +715,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 23606,
+      "stars": 23838,
       "language": "Dart",
       "titleZh": "ccch1mneyyy/dsh-Go",
       "descriptionZh": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
@@ -702,7 +731,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8124,
+      "stars": 8147,
       "language": "Python",
       "titleZh": "rddmwmddr/android-ad-cleaner",
       "descriptionZh": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
@@ -760,7 +789,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9040,
+      "stars": 9066,
       "language": "TypeScript",
       "titleZh": "l0ng-ai/openidea",
       "descriptionZh": "您所熟悉的 IDE，以 Rust 语言重新构建。一款快速的本地应用程序，具备 IntelliJ IDEA 风格的键盘映射、工具窗口和“全局搜索”功能：编辑器、代码提示、调试器、Git、终端、数据库和 HTTP 客户端，支持 60 多种语言。"
@@ -822,6 +851,22 @@
       "translationKind": "category-summary"
     },
     {
+      "id": "projects:Jakeschincariol/day-trader-skill",
+      "kind": "project",
+      "title": "Jakeschincariol/day-trader-skill",
+      "repo": "Jakeschincariol/day-trader-skill",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "publishedAt": "2026-10-20T14:17:54Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 8029,
+      "language": "Python",
+      "titleZh": "Jakeschincariol/day-trader-skill",
+      "descriptionZh": "11项适用于日内交易的Claude技能：扫描数千张图表，跟踪突发新闻，把握每次入场和出场的时机，并在您投入一分钱之前重播每项结果。"
+    },
+    {
       "id": "projects:pengchujin/aerial-tv",
       "kind": "project",
       "title": "pengchujin/aerial-tv",
@@ -832,7 +877,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 12006,
+      "stars": 12037,
       "language": "Kotlin",
       "titleZh": "pengchujin/aerial-tv",
       "descriptionZh": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
@@ -848,7 +893,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8135,
+      "stars": 8163,
       "language": "Python",
       "titleZh": "xiaoyang111222/cn-math-taxonomy",
       "descriptionZh": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
@@ -864,10 +909,26 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 19673,
+      "stars": 19728,
       "language": "C",
       "titleZh": "Zagitta/gpu-unlock",
       "descriptionZh": "您的 GeForce 以半速运行 AI。此工具可为 20/30/40 系列显卡解决此问题。高达 2 倍的 FP16/BF16/TF32 张量吞吐量"
+    },
+    {
+      "id": "projects:ly05010419/MacNativeGames",
+      "kind": "project",
+      "title": "ly05010419/MacNativeGames",
+      "repo": "ly05010419/MacNativeGames",
+      "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "publishedAt": "2026-10-17T19:52:00Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 7880,
+      "language": "C",
+      "titleZh": "ly05010419/MacNativeGames",
+      "descriptionZh": "在搭载 Apple 芯片的 Mac、iPhone 和 iPad 上原生畅玩您自己的《王国之泪》和《旷野之息》。这不是模拟器：游戏的 ARM64 代码直接运行，NVN 在 Metal 上重建。自带游戏。"
     },
     {
       "id": "projects:Gathin23/cleanyourtv",
@@ -880,58 +941,10 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 58161,
+      "stars": 58310,
       "language": "Python",
       "titleZh": "Gathin23/cleanyourtv",
       "descriptionZh": "通过 Wi-Fi 卸载任何 Android 或 Google TV 的臃肿软件，打造 Apple TV 风格的家居。"
-    },
-    {
-      "id": "projects:amosblomqvist/learnharness",
-      "kind": "project",
-      "title": "amosblomqvist/learnharness",
-      "repo": "amosblomqvist/learnharness",
-      "description": "Agent harness for learning difficult things.",
-      "url": "https://github.com/amosblomqvist/learnharness",
-      "publishedAt": "2026-10-16T19:35:33Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 9548,
-      "language": "TypeScript",
-      "titleZh": "amosblomqvist/learnharness",
-      "descriptionZh": "用于学习难点的代理线束。"
-    },
-    {
-      "id": "projects:deepseek-ai/DeepInfer",
-      "kind": "project",
-      "title": "deepseek-ai/DeepInfer",
-      "repo": "deepseek-ai/DeepInfer",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "publishedAt": "2026-10-16T07:47:23Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 26067,
-      "language": "Python",
-      "titleZh": "deepseek-ai/DeepInfer",
-      "descriptionZh": "DeepInfer：适用于 DeepSeek 模型的高性能大规模推理框架"
-    },
-    {
-      "id": "projects:kingcharleslzy-ai/dsh-purge",
-      "kind": "project",
-      "title": "kingcharleslzy-ai/dsh-purge",
-      "repo": "kingcharleslzy-ai/dsh-purge",
-      "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
-      "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
-      "publishedAt": "2026-10-16T07:44:27Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 8678,
-      "language": "JavaScript",
-      "titleZh": "kingcharleslzy-ai/dsh-purge",
-      "descriptionZh": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。"
     },
     {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.102.0",
@@ -996,7 +1009,7 @@
       "label": "GitHub Blog",
       "url": "https://github.blog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-15T16:35:00.235Z",
+      "updatedAt": "2026-11-16T02:25:38.748Z",
       "etag": "W/\"e4ba3f1e905c25a576ac192ccb8c33d5\"",
       "lastModified": "Fri, 13 Nov 2026 20:56:18 GMT"
     },
@@ -1005,7 +1018,7 @@
       "label": "GitHub Changelog",
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-15T16:35:00.235Z",
+      "updatedAt": "2026-11-16T02:25:38.748Z",
       "etag": "W/\"e4ba3f1e905c25a576ac192ccb8c33d5\"",
       "lastModified": "Fri, 13 Nov 2026 20:56:18 GMT"
     },
@@ -1014,7 +1027,7 @@
       "label": "GitHub CLI",
       "url": "https://github.com/cli/cli/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-15T16:35:00.235Z",
+      "updatedAt": "2026-11-16T02:25:38.748Z",
       "etag": "W/\"f9e61f2d1a918d457d2b905861f5947f\""
     },
     {
@@ -1022,7 +1035,7 @@
       "label": "Node.js",
       "url": "https://github.com/nodejs/node/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-15T16:35:00.235Z",
+      "updatedAt": "2026-11-16T02:25:38.748Z",
       "etag": "W/\"0a44e929c450f2712424e8fa612c9032\""
     },
     {
@@ -1030,7 +1043,7 @@
       "label": "Vite",
       "url": "https://github.com/vitejs/vite/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-15T16:35:00.235Z",
+      "updatedAt": "2026-11-16T02:25:38.748Z",
       "etag": "W/\"87d490b39638c938052c8e93541b0bde\""
     },
     {
@@ -1038,19 +1051,19 @@
       "label": "GitHub 近期新项目",
       "url": "https://api.github.com/search/repositories",
       "status": "ok",
-      "updatedAt": "2026-11-15T16:35:00.235Z"
+      "updatedAt": "2026-11-16T02:25:38.748Z"
     }
   ],
   "successfulSources": 6,
   "translation": {
     "provider": "MyMemory",
-    "requests": 0,
-    "translated": 0,
-    "cached": 47,
+    "requests": 16,
+    "translated": 16,
+    "cached": 44,
     "error": null,
-    "used": 3952,
+    "used": 3910,
     "dailyBudget": 4000,
-    "checkedAt": "2026-11-15T16:35:02.549Z"
+    "checkedAt": "2026-11-16T02:25:52.852Z"
   },
   "automation": {
     "enabled": true,
