@@ -344,8 +344,112 @@
     "b08b7c5ba0a8b901aacbf5024e09e9b678d096f7bf6fe26a62467b33d41e533b": {
       "text": "今天，我们阐述了我们的愿景，即让 GitHub 成为世界上最全面的端到端软件交付系统。",
       "at": "2026-11-17T02:20:46.674Z"
+    },
+    "4060e0ab56ea3c2b7ac5ec0b9eb061707db2fa6779f265a2388d03ee4235fca9": {
+      "text": "OpenAI的GPT-6.2 Astra和GPT-6.2 Sol现已推出",
+      "at": "2026-11-18T02:19:12.219Z"
+    },
+    "b088b57691496171b37060cdc384f7deb4e07eec8fe41e34cd1012905048bf77": {
+      "text": "维护者不需要更多的人工智能漏洞报告。他们需要的是修复。",
+      "at": "2026-11-18T02:19:13.011Z"
+    },
+    "5d11b976469912a0b6d8ca36a464fc8951e023739c3edc34c705e95e588de503": {
+      "text": "为跨设备持续的会话构建代理主机协议",
+      "at": "2026-11-18T02:19:13.606Z"
+    },
+    "c9879dff36385f9d40e3998ba9bf5cf881cb440f754f634f311881b3db2bee15": {
+      "text": "GitHub Copilot Fusion更新：更多可用性、基准和模型",
+      "at": "2026-11-18T02:19:14.171Z"
+    },
+    "b40e318d44e6e5f91e4ad3037ec2a044c0f87787492062d99180d16e23a38ead": {
+      "text": "GitHub Copilot 应用，Microsoft Ignite 发布会",
+      "at": "2026-11-18T02:19:15.371Z"
+    },
+    "c6225b0f8df065569ba7c9a34fa631a72ab240bd745e9e9dffc01f6e48e72660": {
+      "text": "Copilot代码审查：自适应工作量、密钥检测等",
+      "at": "2026-11-18T02:19:16.044Z"
+    },
+    "6470c629040ffff6ee2412f4d1a84cf80bfe9b68b04847fdd062b4e361b05ced": {
+      "text": "GitHub Copilot 中的 MAI 代码 2 和 MAI 代码 2 Flash",
+      "at": "2026-11-18T02:19:16.599Z"
+    },
+    "80a3c4ff24a108b52d4b63fadc6b8ff93893eeeb02a3d839acd643592ce07e60": {
+      "text": "JetBrains 中的 GitHub Copilot，Ignite 版本",
+      "at": "2026-11-18T02:19:17.183Z"
+    },
+    "d0fa157f8efeedc14fc7a8882dd8a04cf6492d60aca040bbe70258ea3697e155": {
+      "text": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
+      "at": "2026-11-18T02:19:17.729Z"
+    },
+    "4dd7966b1e9bf972f141a865eb9916aa72b132c9cae622d954d1b92d2a272cec": {
+      "text": "GitHub Copilot CLI新增Microsoft Entra登录功能（预览版）",
+      "at": "2026-11-18T02:19:18.327Z"
+    },
+    "5599f593523cf847a9272a84a18157eb8ee0493fba44b39934963b61f6eee2d3": {
+      "text": "在“仓库洞察”中跟踪 Copilot 代码审核结果",
+      "at": "2026-11-18T02:19:18.916Z"
+    },
+    "766b9ac67b42c26ff9dc876698b61c4b9f02e00e8d8ccd296f1521b54ac90fa1": {
+      "text": "GitHub Copilot Evals现已进入公开预览阶段",
+      "at": "2026-11-18T02:19:19.520Z"
+    },
+    "b8ee0e8edd9d77fdccbb652dd7f03c7984163fea1e802920d5101ca1afb824ff": {
+      "text": "将《塞尔达传说：王国之泪》静态重新编译为原生Windows和Linux x86-64版本，并使用Vulkan渲染器。不包含游戏文件。",
+      "at": "2026-11-18T02:19:20.311Z"
+    },
+    "db1f0564d75bb0bec87893e29c7f2843db006081bf1db7f608fdab86d7371b7d": {
+      "text": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已在 GitHub Copilot 中全面推出。这两个模型均专为代理式编码和代码审查而设计，其编码判断能力比早期的 GPT-6 更强……",
+      "at": "2026-11-18T02:19:21.094Z"
+    },
+    "bc1b5330cbb869830eceef342a2831718106ac1cf6a604d14334a2493244fedb": {
+      "text": "在 Codename MDASH 试点项目中，GitHub 和微软将数千条原始 AI 发现转化为 99 份经过核查的私有报告，其中包含针对六个广泛使用的开源项目的建议修复方案。维护者已经修复了一半以上的问题。",
+      "at": "2026-11-18T02:19:21.847Z"
+    },
+    "589f2a3c313d0302a7cef708388f1046fe0a07680ad5edf5becc977d6950c116": {
+      "text": "了解我们如何构建开放的 Agent Host 协议，以便在编辑器、应用程序、手机和云端之间访问您的代理会话。",
+      "at": "2026-11-18T02:19:22.543Z"
+    },
+    "3c0429d30694350e180436f600fd50e98ac630ab025304a9e271bfb3199dddbc": {
+      "text": "今天，我们正在通过新模型扩展GitHub Copilot Fusion，使其在更多Copilot界面上可用，并在两个公共Terminal-Bench排行榜上提供结果，为您提供更多使用Fusion和比较……",
+      "at": "2026-11-18T02:19:23.397Z"
+    },
+    "8f6c726e7fa56872eef3524789347253643764d19e0fc4a402e1f4c5d7ff0c52": {
+      "text": "Copilot 在您工作的地方发挥作用时最有用。GitHub Copilot 应用现已支持您的 Azure DevOps 代码仓库、GitHub Enterprise Server 实例以及您正在使用的浏览器……",
+      "at": "2026-11-18T02:19:24.177Z"
+    },
+    "ee9856fed79b5a83be007bf7c2b901c42c6790364bdf23284c690bcfee17cf56": {
+      "text": "GitHub Copilot代码审查现在可以帮助您更早地发现更多问题，而且更省力。自适应功能可将审核深度与每个拉取请求相匹配，因此常规更改可以快速通过，并且……",
+      "at": "2026-11-18T02:19:24.950Z"
+    },
+    "36818ac8452aff9ce44fb51f84e7dd76af41a675199993e08a9d51c9fd3d7e56": {
+      "text": "新一代 Microsoft AI (MAI) 编码模型已在 GitHub Copilot 中上线。隆重推出 MAI Code 2 和 MAI Code 2 Flash，这两个新模型代表着一项重大……",
+      "at": "2026-11-18T02:19:25.640Z"
+    },
+    "1aa78581020964b678f819bd42594ca72394f287b2e1dfc88be80fe5c8eb976f": {
+      "text": "本次更新为 GitHub Copilot for JetBrains 带来了远程访问、设备端语音听写和浏览器使用控制功能。JetBrains IDE 中的 Copilot 用户还可以使用上下文使用快捷方式、历史差异、更简单的……",
+      "at": "2026-11-18T02:19:26.381Z"
+    },
+    "53147ec53e1a7df8cde6e746550549e29078a0622f14980266de10fba096b61d": {
+      "text": "企业现在可以将GitHub Copilot代理活动直接流式传输到Microsoft Agent 365。这使您可以将来自所有GitHub Copilot客户端的审计数据导入Microsoft的代理控制平面，在那里……",
+      "at": "2026-11-18T02:19:26.980Z"
+    },
+    "8a65be7b7827eae58dd72c17e239ef0a9471734175ab3c1576cefd10186e621e": {
+      "text": "GitHub Copilot CLI现已在公开预览版中支持Microsoft Entra身份验证。您可以使用您的 Microsoft Entra 账户登录，以对关联的 GitHub Enterprise 受管用户进行静默身份验证……",
+      "at": "2026-11-18T02:19:27.717Z"
+    },
+    "04fd7b5a0f24569bf4dae0adae78dfb0cc7e4a72676fe9296b81fda267cffa82": {
+      "text": "您现在可以看到 Copilot 代码评审反馈如何出现在每个代码仓库中。新的“代码仓库洞见”页面是代码仓库“洞见”选项卡中的第一个项目，它提供了 Copilot 代码评审……",
+      "at": "2026-11-18T02:19:28.550Z"
+    },
+    "7b4d65bbf6f91331a5d49a82c73ff6c5908fd0a8a01922533fec02684b08e43b": {
+      "text": "您现在可以使用 GitHub Copilot Evals 为自己优化 GitHub Copilot。随着您的提示、模型、技能和工具发生变化，您是否仍在充分利用 Copilot？……",
+      "at": "2026-11-18T02:19:29.178Z"
+    },
+    "9b3cc4b1efb8f78a190b72f98b9f719cda4ebfd55d3743e94cd2208449677ca7": {
+      "text": "Git 即将发布更新，以解决影响克隆、引用处理、合并、二进制补丁和导入的六个安全漏洞。以下是用户需要了解的内容。",
+      "at": "2026-11-18T02:19:29.855Z"
     }
   },
-  "day": "2026-11-17",
-  "used": 3900
+  "day": "2026-11-18",
+  "used": 3266
 }
