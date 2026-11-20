@@ -488,8 +488,52 @@
     "7b41ce83df8b8519ee1095663d5991e439baa74f653c59073b5e2b2d0d309433": {
       "text": "您现在可以共享团队所依赖的 GitHub Copilot 插件，而无需要求每个成员重复相同的设置。团队自定义功能通常适用于组织团队。团队……",
       "at": "2026-11-19T02:19:02.238Z"
+    },
+    "6f69f4a8110f0c9eced702291c9b0d7a463aef24122dd1403b89adb9097bc432": {
+      "text": "对公测版中拉取请求概览的改进",
+      "at": "2026-11-20T02:18:08.854Z"
+    },
+    "bc1d8720703fd8c1207475ad3fa43913afa69b18c7cc2ea8d3712e674d6170db": {
+      "text": "Azure DevOps的企业实时迁移现已正式推出",
+      "at": "2026-11-20T02:18:09.701Z"
+    },
+    "bdc6211db2861ba627ec9bb00a0a25a25ca4a3062dfd21d94a659e9ab55e02a0": {
+      "text": "Red Hat Enterprise Linux Runner镜像现已正式发布",
+      "at": "2026-11-20T02:18:10.331Z"
+    },
+    "448962717d252aae139b90a271cc9bd0df72ea2d76b33302d836b54069d4bbee": {
+      "text": "开源领域最优秀的事物都是共同打造的",
+      "at": "2026-11-20T02:18:10.999Z"
+    },
+    "25d4d870fdebb7980305e7a8ac507bf2ba7fff9f52b2a3bd2e9807fc01b5570a": {
+      "text": "使用OpenID Connect的S3审计日志流扩展到GHE.com",
+      "at": "2026-11-20T02:18:11.580Z"
+    },
+    "a25b09390c3e1c1ecf0ac71c8c95cb0029fb96053e78e26012742f386b26e9e3": {
+      "text": "Rune：原生UI框架",
+      "at": "2026-11-20T02:18:12.120Z"
+    },
+    "ccc3f9c861f69b4516fb0f114df22805774cf9202ee9baf2f1c007c50405b9f8": {
+      "text": "自2026年11月5日公测以来，您的反馈帮助我们改进了新的“拉取请求概览”页面。以下是新功能！更清晰的合并状态和后续步骤可选检查未通过……",
+      "at": "2026-11-20T02:18:12.842Z"
+    },
+    "4d860ba1cf551ef7209eb86808861e55a42fd92df982409fe4c3c2927a5f43ee": {
+      "text": "从Azure DevOps Services到GitHub Enterprise Cloud的企业实时迁移（ELM）（含数据驻留）现已正式发布。您可以在团队继续工作的同时迁移您的代码仓库，然后……",
+      "at": "2026-11-20T02:18:13.566Z"
+    },
+    "a7f3d9a7201efd4473fb7ae0ad5ab9dcfdfcee518a61e123f68a457ecfee5dd9": {
+      "text": "适用于GitHub托管的大型Runner的Red Hat Enterprise Linux (RHEL) 9和RHEL 10镜像现已正式发布。最初于2026年6月与Red合作推出公测版……",
+      "at": "2026-11-20T02:18:14.310Z"
+    },
+    "d21550d741520f7d0033d206087d0951d8736d0134269cde46e18593bb1a31e3": {
+      "text": "隆重推出 Replica 和开源无障碍框架，这是旨在促进协作和包容性的全新开源项目。",
+      "at": "2026-11-20T02:18:15.004Z"
+    },
+    "300b876ff5cc323e6d581d204ecd0771ac14467424590127d64dd23ee2570607": {
+      "text": "现在，您可以使用具有数据驻留功能的GitHub Enterprise Cloud（GHE.com）上的OpenID Connect（OIDC）将企业审计日志流式传输到Amazon S3。这扩展了现有的 github.com 功能，让您能够……",
+      "at": "2026-11-20T02:18:15.826Z"
     }
   },
-  "day": "2026-11-19",
-  "used": 1178
+  "day": "2026-11-20",
+  "used": 1226
 }

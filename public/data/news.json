@@ -1,7 +1,72 @@
 {
-  "updatedAt": "2026-11-19T02:18:53.831Z",
-  "lastAttemptAt": "2026-11-19T02:18:53.831Z",
+  "updatedAt": "2026-11-20T02:18:06.700Z",
+  "lastAttemptAt": "2026-11-20T02:18:06.700Z",
   "items": [
+    {
+      "id": "changelog:https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "kind": "official",
+      "title": "Improvements on the pull request overview in public preview",
+      "description": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here’s what’s new! Clearer merge status and next steps Failed optional checks…",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "publishedAt": "2026-11-20T00:02:21.000Z",
+      "source": "GitHub Changelog",
+      "sourceId": "changelog",
+      "tag": "产品更新",
+      "titleZh": "对公测版中拉取请求概览的改进",
+      "descriptionZh": "自2026年11月5日公测以来，您的反馈帮助我们改进了新的“拉取请求概览”页面。以下是新功能！更清晰的合并状态和后续步骤可选检查未通过……"
+    },
+    {
+      "id": "changelog:https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "kind": "official",
+      "title": "Enterprise Live Migrations from Azure DevOps generally available",
+      "description": "Enterprise Live Migrations (ELM) from Azure DevOps Services to GitHub Enterprise Cloud with data residency is now generally available. You can move your repositories while your teams keep working, then…",
+      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "publishedAt": "2026-11-19T18:50:57.000Z",
+      "source": "GitHub Changelog",
+      "sourceId": "changelog",
+      "tag": "产品更新",
+      "titleZh": "Azure DevOps的企业实时迁移现已正式推出",
+      "descriptionZh": "从Azure DevOps Services到GitHub Enterprise Cloud的企业实时迁移（ELM）（含数据驻留）现已正式发布。您可以在团队继续工作的同时迁移您的代码仓库，然后……"
+    },
+    {
+      "id": "changelog:https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "kind": "official",
+      "title": "Red Hat Enterprise Linux runner images now generally available",
+      "description": "Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images for GitHub-hosted larger runners are now generally available. Originally introduced in public preview in June 2026 in partnership with Red…",
+      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "publishedAt": "2026-11-19T18:48:46.000Z",
+      "source": "GitHub Changelog",
+      "sourceId": "changelog",
+      "tag": "产品更新",
+      "titleZh": "Red Hat Enterprise Linux Runner镜像现已正式发布",
+      "descriptionZh": "适用于GitHub托管的大型Runner的Red Hat Enterprise Linux (RHEL) 9和RHEL 10镜像现已正式发布。最初于2026年6月与Red合作推出公测版……"
+    },
+    {
+      "id": "blog:https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "kind": "official",
+      "title": "The best things in open source are built together",
+      "description": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.",
+      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "source": "GitHub Blog",
+      "sourceId": "blog",
+      "tag": "官方博客",
+      "titleZh": "开源领域最优秀的事物都是共同打造的",
+      "descriptionZh": "隆重推出 Replica 和开源无障碍框架，这是旨在促进协作和包容性的全新开源项目。"
+    },
+    {
+      "id": "changelog:https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
+      "kind": "official",
+      "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
+      "description": "You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you…",
+      "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
+      "publishedAt": "2026-11-19T08:27:16.000Z",
+      "source": "GitHub Changelog",
+      "sourceId": "changelog",
+      "tag": "产品更新",
+      "titleZh": "使用OpenID Connect的S3审计日志流扩展到GHE.com",
+      "descriptionZh": "现在，您可以使用具有数据驻留功能的GitHub Enterprise Cloud（GHE.com）上的OpenID Connect（OIDC）将企业审计日志流式传输到Amazon S3。这扩展了现有的 github.com 功能，让您能够……"
+    },
     {
       "id": "changelog:https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
       "kind": "official",
@@ -119,58 +184,6 @@
       "tag": "官方博客",
       "titleZh": "为跨设备持续的会话构建代理主机协议",
       "descriptionZh": "了解我们如何构建开放的 Agent Host 协议，以便在编辑器、应用程序、手机和云端之间访问您的代理会话。"
-    },
-    {
-      "id": "changelog:https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-      "kind": "official",
-      "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-      "description": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare…",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-      "publishedAt": "2026-11-17T18:04:48.000Z",
-      "source": "GitHub Changelog",
-      "sourceId": "changelog",
-      "tag": "产品更新",
-      "titleZh": "GitHub Copilot Fusion更新：更多可用性、基准和模型",
-      "descriptionZh": "今天，我们正在通过新模型扩展GitHub Copilot Fusion，使其在更多Copilot界面上可用，并在两个公共Terminal-Bench排行榜上提供结果，为您提供更多使用Fusion和比较……"
-    },
-    {
-      "id": "changelog:https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "kind": "official",
-      "title": "GitHub Copilot app, Microsoft Ignite releases",
-      "description": "Copilot is most useful when it can work where you do. The GitHub Copilot app now supports your Azure DevOps repositories, your GitHub Enterprise Server instance, and the browser you’re…",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "publishedAt": "2026-11-17T18:03:42.000Z",
-      "source": "GitHub Changelog",
-      "sourceId": "changelog",
-      "tag": "产品更新",
-      "titleZh": "GitHub Copilot 应用，Microsoft Ignite 发布会",
-      "descriptionZh": "Copilot 在您工作的地方发挥作用时最有用。GitHub Copilot 应用现已支持您的 Azure DevOps 代码仓库、GitHub Enterprise Server 实例以及您正在使用的浏览器……"
-    },
-    {
-      "id": "changelog:https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "kind": "official",
-      "title": "Copilot code review: Adaptive effort, secret detection, and more",
-      "description": "GitHub Copilot code review now helps you catch more issues earlier, with less effort. Adaptive matches review depth to each pull request, so routine changes get a quick pass and…",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "publishedAt": "2026-11-17T18:02:05.000Z",
-      "source": "GitHub Changelog",
-      "sourceId": "changelog",
-      "tag": "产品更新",
-      "titleZh": "Copilot代码审查：自适应工作量、密钥检测等",
-      "descriptionZh": "GitHub Copilot代码审查现在可以帮助您更早地发现更多问题，而且更省力。自适应功能可将审核深度与每个拉取请求相匹配，因此常规更改可以快速通过，并且……"
-    },
-    {
-      "id": "changelog:https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "kind": "official",
-      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-      "description": "The next generation of Microsoft AI (MAI) coding models has arrived in GitHub Copilot. Introducing MAI Code 2 and MAI Code 2 Flash, two new models that represent a major…",
-      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "publishedAt": "2026-11-17T18:01:45.000Z",
-      "source": "GitHub Changelog",
-      "sourceId": "changelog",
-      "tag": "产品更新",
-      "titleZh": "GitHub Copilot 中的 MAI 代码 2 和 MAI 代码 2 Flash",
-      "descriptionZh": "新一代 Microsoft AI (MAI) 编码模型已在 GitHub Copilot 中上线。隆重推出 MAI Code 2 和 MAI Code 2 Flash，这两个新模型代表着一项重大……"
     },
     {
       "id": "node:https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0",
@@ -418,7 +431,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8388,
+      "stars": 8545,
       "language": "Swift",
       "titleZh": "huami1314/GestaltX",
       "descriptionZh": "适用于 iOS 27.x 的 MobileGestalt 编辑器，具备区域代码调整、设备预设、备份等功能。"
@@ -501,7 +514,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10121,
+      "stars": 10299,
       "language": "未标注",
       "titleZh": "janestreet/agent_skills",
       "descriptionZh": "客服代表技能"
@@ -530,7 +543,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10089,
+      "stars": 10336,
       "language": "Rust",
       "titleZh": "Minireel/HGhub",
       "descriptionZh": "插件媒体播放器"
@@ -546,23 +559,10 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10822,
+      "stars": 11298,
       "language": "Rust",
       "titleZh": "libracoder/kiri",
       "descriptionZh": "适用于macOS、Windows和Linux的小型快速容器运行时，提供免费的Ngrok替代方案"
-    },
-    {
-      "id": "blog:https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-      "kind": "official",
-      "title": "Game Off 2026: The theme is SHIFT",
-      "description": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.",
-      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-      "publishedAt": "2026-11-01T21:36:00.000Z",
-      "source": "GitHub Blog",
-      "sourceId": "blog",
-      "tag": "官方博客",
-      "titleZh": "2026年Game Off：主题是“转变”",
-      "descriptionZh": "GitHub 为期一个月的年度游戏开发大赛（Game Jam）已迎来第 14 个年头！今年 11 月，请以“转变”为主题制作一款游戏。换挡、转换视角、扭曲现实，或者只是按一下某个键。"
     },
     {
       "id": "projects:storytold/craft-anything",
@@ -575,7 +575,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 37143,
+      "stars": 38575,
       "language": "Rust",
       "titleZh": "storytold/craft-anything",
       "descriptionZh": "打造任何事物：了解任何软件的运作方式，并打造您自己的软件。"
@@ -591,7 +591,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9740,
+      "stars": 9841,
       "language": "C++",
       "titleZh": "zortos293/Lichii",
       "descriptionZh": "非常实验性的 Nintendo Switch 2 模拟器"
@@ -607,7 +607,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 23836,
+      "stars": 23962,
       "language": "TypeScript",
       "titleZh": "deepseek-ai/dsh-superagent-prototype",
       "descriptionZh": "迈向更自主的代理系统"
@@ -623,7 +623,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8157,
+      "stars": 8326,
       "language": "JavaScript",
       "titleZh": "patch-gg/pixelfx",
       "descriptionZh": "244 种像素艺术效果，每种效果都是一段小代码。此外，还有一项 Claude Code 技能，让您能够自行创作。"
@@ -653,7 +653,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10718,
+      "stars": 11088,
       "language": "Python",
       "titleZh": "JuneYaooo/rea-video",
       "descriptionZh": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。"
@@ -669,7 +669,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 18318,
+      "stars": 18708,
       "language": "JavaScript",
       "titleZh": "heydamir/unslop",
       "descriptionZh": "一种 Claude 技能，可将采用 VibeCode 的、看起来像 AI 的 UI 转换为经过设计的界面"
@@ -685,7 +685,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9109,
+      "stars": 9197,
       "language": "Kotlin",
       "titleZh": "wangzan101/Mika",
       "descriptionZh": "一款适用于 Android 的设备端 AI 代理，可操作应用程序和网页为您完成任务。"
@@ -701,10 +701,26 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 7916,
+      "stars": 8341,
       "language": "JavaScript",
       "titleZh": "RoutineMiku/apkstart",
       "descriptionZh": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时"
+    },
+    {
+      "id": "projects:valentderah/totk-pc-recomp",
+      "kind": "project",
+      "title": "valentderah/totk-pc-recomp",
+      "repo": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "publishedAt": "2026-10-29T12:32:46Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 7759,
+      "language": "C",
+      "titleZh": "valentderah/totk-pc-recomp",
+      "descriptionZh": "将《塞尔达传说：王国之泪》静态重新编译为原生Windows和Linux x86-64版本，并使用Vulkan渲染器。不包含游戏文件。"
     },
     {
       "id": "projects:anefzaoui/misterdownloadmanager",
@@ -717,7 +733,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 13082,
+      "stars": 13786,
       "language": "Rust",
       "titleZh": "anefzaoui/misterdownloadmanager",
       "descriptionZh": "misterdownloadmanager：终极开源、无污染下载管理器，完全使用纯 Rust 语言从头编写，适用于 Windows、Mac 和 Linux"
@@ -751,6 +767,22 @@
       "translationKind": "category-summary"
     },
     {
+      "id": "projects:anhao/ai-pose-gallery-zh",
+      "kind": "project",
+      "title": "anhao/ai-pose-gallery-zh",
+      "repo": "anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "publishedAt": "2026-10-27T12:24:37Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 7356,
+      "language": "TypeScript",
+      "titleZh": "anhao/ai-pose-gallery-zh",
+      "descriptionZh": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
+    },
+    {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.103.3",
       "kind": "release",
       "title": "GitHub CLI 2.103.3",
@@ -775,7 +807,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8176,
+      "stars": 8236,
       "language": "未标注",
       "titleZh": "unclebob/ub-mode",
       "descriptionZh": "暂无项目描述"
@@ -791,7 +823,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 27280,
+      "stars": 28258,
       "language": "Dart",
       "titleZh": "ccch1mneyyy/dsh-Go",
       "descriptionZh": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
@@ -807,7 +839,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8354,
+      "stars": 8451,
       "language": "Python",
       "titleZh": "rddmwmddr/android-ad-cleaner",
       "descriptionZh": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
@@ -841,6 +873,22 @@
       "translationKind": "category-summary"
     },
     {
+      "id": "projects:anomalyco/rune",
+      "kind": "project",
+      "title": "anomalyco/rune",
+      "repo": "anomalyco/rune",
+      "description": "Rune: Native UI framework",
+      "url": "https://github.com/anomalyco/rune",
+      "publishedAt": "2026-10-22T05:51:40Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 7611,
+      "language": "Rust",
+      "titleZh": "anomalyco/rune",
+      "descriptionZh": "Rune：原生UI框架"
+    },
+    {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.103.0",
       "kind": "release",
       "title": "GitHub CLI 2.103.0",
@@ -865,7 +913,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9402,
+      "stars": 9547,
       "language": "TypeScript",
       "titleZh": "l0ng-ai/openidea",
       "descriptionZh": "您所熟悉的 IDE，以 Rust 语言重新构建。一款快速的本地应用程序，具备 IntelliJ IDEA 风格的键盘映射、工具窗口和“全局搜索”功能：编辑器、代码提示、调试器、Git、终端、数据库和 HTTP 客户端，支持 60 多种语言。"
@@ -911,54 +959,6 @@
       "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.102.1",
       "translationKind": "category-summary"
-    },
-    {
-      "id": "projects:LNPANDY/NX2Apple",
-      "kind": "project",
-      "title": "LNPANDY/NX2Apple",
-      "repo": "LNPANDY/NX2Apple",
-      "description": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
-      "url": "https://github.com/LNPANDY/NX2Apple",
-      "publishedAt": "2026-10-20T18:16:07Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 7764,
-      "language": "Swift",
-      "titleZh": "LNPANDY/NX2Apple",
-      "descriptionZh": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game."
-    },
-    {
-      "id": "projects:Jakeschincariol/day-trader-skill",
-      "kind": "project",
-      "title": "Jakeschincariol/day-trader-skill",
-      "repo": "Jakeschincariol/day-trader-skill",
-      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "publishedAt": "2026-10-20T14:17:54Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 8619,
-      "language": "Python",
-      "titleZh": "Jakeschincariol/day-trader-skill",
-      "descriptionZh": "11项适用于日内交易的Claude技能：扫描数千张图表，跟踪突发新闻，把握每次入场和出场的时机，并在您投入一分钱之前重播每项结果。"
-    },
-    {
-      "id": "projects:pengchujin/aerial-tv",
-      "kind": "project",
-      "title": "pengchujin/aerial-tv",
-      "repo": "pengchujin/aerial-tv",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "publishedAt": "2026-10-20T09:13:06Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 12463,
-      "language": "Kotlin",
-      "titleZh": "pengchujin/aerial-tv",
-      "descriptionZh": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     },
     {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.102.0",
@@ -1009,25 +1009,25 @@
       "label": "GitHub Blog",
       "url": "https://github.blog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-19T02:18:53.831Z",
-      "etag": "W/\"598f3baa82d7c64b90695eabb6fc3ab2\"",
-      "lastModified": "Thu, 19 Nov 2026 01:30:37 GMT"
+      "updatedAt": "2026-11-20T02:18:06.700Z",
+      "etag": "W/\"3a63d4c68125a66083af6e300e6e4af0\"",
+      "lastModified": "Fri, 20 Nov 2026 00:03:46 GMT"
     },
     {
       "id": "changelog",
       "label": "GitHub Changelog",
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-19T02:18:53.831Z",
-      "etag": "W/\"598f3baa82d7c64b90695eabb6fc3ab2\"",
-      "lastModified": "Thu, 19 Nov 2026 01:30:37 GMT"
+      "updatedAt": "2026-11-20T02:18:06.700Z",
+      "etag": "W/\"3a63d4c68125a66083af6e300e6e4af0\"",
+      "lastModified": "Fri, 20 Nov 2026 00:03:46 GMT"
     },
     {
       "id": "cli",
       "label": "GitHub CLI",
       "url": "https://github.com/cli/cli/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-19T02:18:53.831Z",
+      "updatedAt": "2026-11-20T02:18:06.700Z",
       "etag": "W/\"65135ac33a25a0616d78d2abf712b315\""
     },
     {
@@ -1035,7 +1035,7 @@
       "label": "Node.js",
       "url": "https://github.com/nodejs/node/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-19T02:18:53.831Z",
+      "updatedAt": "2026-11-20T02:18:06.700Z",
       "etag": "W/\"ce1759993ca3e851e37de21a212a23a0\""
     },
     {
@@ -1043,7 +1043,7 @@
       "label": "Vite",
       "url": "https://github.com/vitejs/vite/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-19T02:18:53.831Z",
+      "updatedAt": "2026-11-20T02:18:06.700Z",
       "etag": "W/\"60cfac06dbc0ac69483cb2f20d145f5a\""
     },
     {
@@ -1051,19 +1051,19 @@
       "label": "GitHub 近期新项目",
       "url": "https://api.github.com/search/repositories",
       "status": "ok",
-      "updatedAt": "2026-11-19T02:18:53.831Z"
+      "updatedAt": "2026-11-20T02:18:06.700Z"
     }
   ],
   "successfulSources": 6,
   "translation": {
     "provider": "MyMemory",
-    "requests": 10,
-    "translated": 10,
-    "cached": 49,
+    "requests": 11,
+    "translated": 11,
+    "cached": 48,
     "error": null,
-    "used": 1178,
+    "used": 1226,
     "dailyBudget": 4000,
-    "checkedAt": "2026-11-19T02:19:02.238Z"
+    "checkedAt": "2026-11-20T02:18:15.826Z"
   },
   "automation": {
     "enabled": true,
