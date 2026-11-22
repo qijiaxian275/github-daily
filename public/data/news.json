@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T02:15:39.923Z",
-  "lastAttemptAt": "2026-11-21T02:15:39.923Z",
+  "updatedAt": "2026-11-22T02:16:15.705Z",
+  "lastAttemptAt": "2026-11-22T02:16:15.705Z",
   "items": [
     {
       "id": "changelog:https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
@@ -212,6 +212,22 @@
       "titleZh": "Node.js · 2026-11-16, Version 27.0.0-alpha.0.1.1 (Alpha), @aduh95",
       "descriptionZh": "Node.js 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "translationKind": "category-summary"
+    },
+    {
+      "id": "projects:erkamyaman/rust-anything",
+      "kind": "project",
+      "title": "erkamyaman/rust-anything",
+      "repo": "erkamyaman/rust-anything",
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "publishedAt": "2026-11-16T12:10:36Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 7460,
+      "language": "Rust",
+      "titleZh": "erkamyaman/rust-anything",
+      "descriptionZh": "使用 Rust 逐一重写整个应用程序，每一步都要对照原始应用程序的记录行为进行检查。TypeScript、Python、C、Go、Ruby 和 Java 中的 CLI、HTTP 服务器和库。"
     },
     {
       "id": "vite:https://github.com/vitejs/vite/releases/tag/v8.4.0-beta.1",
@@ -431,7 +447,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8646,
+      "stars": 8738,
       "language": "Swift",
       "titleZh": "huami1314/GestaltX",
       "descriptionZh": "适用于 iOS 27.x 的 MobileGestalt 编辑器，具备区域代码调整、设备预设、备份等功能。"
@@ -514,7 +530,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10434,
+      "stars": 10560,
       "language": "未标注",
       "titleZh": "janestreet/agent_skills",
       "descriptionZh": "客服代表技能"
@@ -543,7 +559,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10459,
+      "stars": 11107,
       "language": "Rust",
       "titleZh": "Minireel/HGhub",
       "descriptionZh": "插件媒体播放器"
@@ -559,7 +575,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11696,
+      "stars": 12067,
       "language": "Rust",
       "titleZh": "libracoder/kiri",
       "descriptionZh": "适用于macOS、Windows和Linux的小型快速容器运行时，提供免费的Ngrok替代方案"
@@ -575,7 +591,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 7095,
+      "stars": 7382,
       "language": "Go",
       "titleZh": "Lee-xeo/Claude-Cage",
       "descriptionZh": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。"
@@ -591,7 +607,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 39557,
+      "stars": 40397,
       "language": "Rust",
       "titleZh": "storytold/craft-anything",
       "descriptionZh": "打造任何事物：了解任何软件的运作方式，并打造您自己的软件。"
@@ -607,7 +623,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9906,
+      "stars": 9992,
       "language": "C++",
       "titleZh": "zortos293/Lichii",
       "descriptionZh": "非常实验性的 Nintendo Switch 2 模拟器"
@@ -623,7 +639,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 24082,
+      "stars": 24161,
       "language": "TypeScript",
       "titleZh": "deepseek-ai/dsh-superagent-prototype",
       "descriptionZh": "迈向更自主的代理系统"
@@ -639,7 +655,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8512,
+      "stars": 8623,
       "language": "JavaScript",
       "titleZh": "patch-gg/pixelfx",
       "descriptionZh": "244 种像素艺术效果，每种效果都是一段小代码。此外，还有一项 Claude Code 技能，让您能够自行创作。"
@@ -669,7 +685,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11445,
+      "stars": 11842,
       "language": "Python",
       "titleZh": "JuneYaooo/rea-video",
       "descriptionZh": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。"
@@ -685,7 +701,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 19277,
+      "stars": 19796,
       "language": "JavaScript",
       "titleZh": "heydamir/unslop",
       "descriptionZh": "一种 Claude 技能，可将采用 VibeCode 的、看起来像 AI 的 UI 转换为经过设计的界面"
@@ -701,7 +717,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9308,
+      "stars": 9477,
       "language": "Kotlin",
       "titleZh": "wangzan101/Mika",
       "descriptionZh": "一款适用于 Android 的设备端 AI 代理，可操作应用程序和网页为您完成任务。"
@@ -717,7 +733,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8723,
+      "stars": 9010,
       "language": "JavaScript",
       "titleZh": "RoutineMiku/apkstart",
       "descriptionZh": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时"
@@ -733,7 +749,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 7844,
+      "stars": 7930,
       "language": "C",
       "titleZh": "valentderah/totk-pc-recomp",
       "descriptionZh": "将《塞尔达传说：王国之泪》静态重新编译为原生Windows和Linux x86-64版本，并使用Vulkan渲染器。不包含游戏文件。"
@@ -749,7 +765,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 14322,
+      "stars": 15639,
       "language": "Rust",
       "titleZh": "anefzaoui/misterdownloadmanager",
       "descriptionZh": "misterdownloadmanager：终极开源、无污染下载管理器，完全使用纯 Rust 语言从头编写，适用于 Windows、Mac 和 Linux"
@@ -793,7 +809,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 7564,
+      "stars": 7772,
       "language": "TypeScript",
       "titleZh": "anhao/ai-pose-gallery-zh",
       "descriptionZh": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
@@ -823,7 +839,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8290,
+      "stars": 8308,
       "language": "未标注",
       "titleZh": "unclebob/ub-mode",
       "descriptionZh": "暂无项目描述"
@@ -839,7 +855,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 29038,
+      "stars": 29629,
       "language": "Dart",
       "titleZh": "ccch1mneyyy/dsh-Go",
       "descriptionZh": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
@@ -855,7 +871,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8538,
+      "stars": 8662,
       "language": "Python",
       "titleZh": "rddmwmddr/android-ad-cleaner",
       "descriptionZh": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
@@ -887,22 +903,6 @@
       "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.103.1",
       "translationKind": "category-summary"
-    },
-    {
-      "id": "projects:anomalyco/rune",
-      "kind": "project",
-      "title": "anomalyco/rune",
-      "repo": "anomalyco/rune",
-      "description": "Rune: Native UI framework",
-      "url": "https://github.com/anomalyco/rune",
-      "publishedAt": "2026-10-22T05:51:40Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 7708,
-      "language": "Rust",
-      "titleZh": "anomalyco/rune",
-      "descriptionZh": "Rune：原生UI框架"
     },
     {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.103.0",
@@ -1009,7 +1009,7 @@
       "label": "GitHub Blog",
       "url": "https://github.blog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-21T02:15:39.923Z",
+      "updatedAt": "2026-11-22T02:16:15.705Z",
       "etag": "W/\"0cdab7e762e15d7ed49a7cd1186a617d\"",
       "lastModified": "Fri, 20 Nov 2026 21:50:43 GMT"
     },
@@ -1018,7 +1018,7 @@
       "label": "GitHub Changelog",
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-21T02:15:39.923Z",
+      "updatedAt": "2026-11-22T02:16:15.705Z",
       "etag": "W/\"0cdab7e762e15d7ed49a7cd1186a617d\"",
       "lastModified": "Fri, 20 Nov 2026 21:50:43 GMT"
     },
@@ -1027,7 +1027,7 @@
       "label": "GitHub CLI",
       "url": "https://github.com/cli/cli/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-21T02:15:39.923Z",
+      "updatedAt": "2026-11-22T02:16:15.705Z",
       "etag": "W/\"65135ac33a25a0616d78d2abf712b315\""
     },
     {
@@ -1035,7 +1035,7 @@
       "label": "Node.js",
       "url": "https://github.com/nodejs/node/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-21T02:15:39.923Z",
+      "updatedAt": "2026-11-22T02:16:15.705Z",
       "etag": "W/\"ce1759993ca3e851e37de21a212a23a0\""
     },
     {
@@ -1043,7 +1043,7 @@
       "label": "Vite",
       "url": "https://github.com/vitejs/vite/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-21T02:15:39.923Z",
+      "updatedAt": "2026-11-22T02:16:15.705Z",
       "etag": "W/\"60cfac06dbc0ac69483cb2f20d145f5a\""
     },
     {
@@ -1051,19 +1051,19 @@
       "label": "GitHub 近期新项目",
       "url": "https://api.github.com/search/repositories",
       "status": "ok",
-      "updatedAt": "2026-11-21T02:15:39.923Z"
+      "updatedAt": "2026-11-22T02:16:15.705Z"
     }
   ],
   "successfulSources": 6,
   "translation": {
     "provider": "MyMemory",
-    "requests": 8,
-    "translated": 8,
-    "cached": 51,
+    "requests": 1,
+    "translated": 1,
+    "cached": 59,
     "error": null,
-    "used": 1000,
+    "used": 194,
     "dailyBudget": 4000,
-    "checkedAt": "2026-11-21T02:15:47.891Z"
+    "checkedAt": "2026-11-22T02:16:17.946Z"
   },
   "automation": {
     "enabled": true,

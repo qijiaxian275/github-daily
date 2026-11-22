@@ -564,8 +564,12 @@
     "9c3b6eaa85d808d2616cd6ec5266029458db007263d7bbfb64a09e7153748cbd": {
       "text": "GitHub Desktop 现在允许您在同一主机上使用多个账户登录，包括 GitHub.com、GitHub Enterprise Server 和 GHE.com。这是最……的功能之一。",
       "at": "2026-11-21T02:15:47.891Z"
+    },
+    "20d49f23b9e899137556644957b1262a2b3a68f8f035a107bfeb9288bd47e0b5": {
+      "text": "使用 Rust 逐一重写整个应用程序，每一步都要对照原始应用程序的记录行为进行检查。TypeScript、Python、C、Go、Ruby 和 Java 中的 CLI、HTTP 服务器和库。",
+      "at": "2026-11-22T02:16:17.946Z"
     }
   },
-  "day": "2026-11-21",
-  "used": 1000
+  "day": "2026-11-22",
+  "used": 194
 }
