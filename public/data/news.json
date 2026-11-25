@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-11-24T02:22:35.509Z",
-  "lastAttemptAt": "2026-11-24T02:22:35.509Z",
+  "updatedAt": "2026-11-25T02:24:42.052Z",
+  "lastAttemptAt": "2026-11-25T02:24:42.052Z",
   "items": [
+    {
+      "id": "changelog:https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "kind": "official",
+      "title": "More predictable notifications on GitHub.com",
+      "description": "Starting December 1, 2026, we’re migrating notifications on GitHub.com over the course of a week to make subscriptions more predictable, correct unexpected behavior, and support the growing scale of activity.…",
+      "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "publishedAt": "2026-11-24T16:40:59.000Z",
+      "source": "GitHub Changelog",
+      "sourceId": "changelog",
+      "tag": "产品更新",
+      "titleZh": "GitHub.com 上更具可预测性的通知",
+      "descriptionZh": "从2026年12月1日起，我们将在一周内迁移GitHub.com上的通知，以使订阅更具可预测性，纠正意外行为，并支持不断增长的活动规模……"
+    },
+    {
+      "id": "blog:https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "kind": "official",
+      "title": "These are the gifts developers will actually want",
+      "description": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "source": "GitHub Blog",
+      "sourceId": "blog",
+      "tag": "官方博客",
+      "titleZh": "这些是开发人员真正想要的礼物",
+      "descriptionZh": "您要为其选购礼物的开发者尚未与您分享他们的节日心愿单？快来看看这些礼物，还有我们全周的黑色星期五折扣。"
+    },
+    {
+      "id": "projects:Marvisak/VIctory",
+      "kind": "project",
+      "title": "Marvisak/VIctory",
+      "repo": "Marvisak/VIctory",
+      "description": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory",
+      "publishedAt": "2026-11-23T21:47:25Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 11459,
+      "language": "Rust",
+      "titleZh": "Marvisak/VIctory",
+      "descriptionZh": "尝试在PC上运行《GTA VI》"
+    },
     {
       "id": "changelog:https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
       "kind": "official",
@@ -81,6 +123,22 @@
       "descriptionZh": "GitHub Enterprise Server (GHES) 3.23现已发布，并为整个平台引入了新功能。以下是3.23版本的一些亮点：在使用GitHub项目时，您可以……"
     },
     {
+      "id": "projects:xcl-dev/xcl",
+      "kind": "project",
+      "title": "xcl-dev/xcl",
+      "repo": "xcl-dev/xcl",
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "url": "https://github.com/xcl-dev/xcl",
+      "publishedAt": "2026-11-20T20:03:21Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 7886,
+      "language": "Rust",
+      "titleZh": "xcl-dev/xcl",
+      "descriptionZh": "适用于 Windows 的 Xbox Series 兼容层——以原生方式运行主机游戏代码，重新实现主机系统库并重新编译 RDNA2 着色器为 DXIL"
+    },
+    {
       "id": "changelog:https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
       "kind": "official",
       "title": "Pin your favorite repositories to your dashboard",
@@ -118,19 +176,6 @@
       "tag": "产品更新",
       "titleZh": "对公测版中拉取请求概览的改进",
       "descriptionZh": "自2026年11月5日公测以来，您的反馈帮助我们改进了新的“拉取请求概览”页面。以下是新功能！更清晰的合并状态和后续步骤可选检查未通过……"
-    },
-    {
-      "id": "changelog:https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "kind": "official",
-      "title": "Enterprise Live Migrations from Azure DevOps generally available",
-      "description": "Enterprise Live Migrations (ELM) from Azure DevOps Services to GitHub Enterprise Cloud with data residency is now generally available. You can move your repositories while your teams keep working, then…",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "publishedAt": "2026-11-19T18:50:57.000Z",
-      "source": "GitHub Changelog",
-      "sourceId": "changelog",
-      "tag": "产品更新",
-      "titleZh": "Azure DevOps的企业实时迁移现已正式推出",
-      "descriptionZh": "从Azure DevOps Services到GitHub Enterprise Cloud的企业实时迁移（ELM）（含数据驻留）现已正式发布。您可以在团队继续工作的同时迁移您的代码仓库，然后……"
     },
     {
       "id": "blog:https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
@@ -224,7 +269,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8766,
+      "stars": 9248,
       "language": "Rust",
       "titleZh": "erkamyaman/rust-anything",
       "descriptionZh": "使用 Rust 逐一重写整个应用程序，每一步都要对照原始应用程序的记录行为进行检查。TypeScript、Python、C、Go、Ruby 和 Java 中的 CLI、HTTP 服务器和库。"
@@ -447,7 +492,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8866,
+      "stars": 8913,
       "language": "Swift",
       "titleZh": "huami1314/GestaltX",
       "descriptionZh": "适用于 iOS 27.x 的 MobileGestalt 编辑器，具备区域代码调整、设备预设、备份等功能。"
@@ -530,23 +575,10 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11397,
+      "stars": 11617,
       "language": "未标注",
       "titleZh": "janestreet/agent_skills",
       "descriptionZh": "客服代表技能"
-    },
-    {
-      "id": "blog:https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-      "kind": "official",
-      "title": "Arnis turns any place on Earth into a Minecraft world",
-      "description": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.",
-      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-      "publishedAt": "2026-11-03T16:00:00.000Z",
-      "source": "GitHub Blog",
-      "sourceId": "blog",
-      "tag": "官方博客",
-      "titleZh": "Arnis能将地球上的任何地方变成一个《我的世界》世界",
-      "descriptionZh": "Louis Erbkamm在业余时间打造了第一个原型。现在，GitHub Copilot 帮助他独自维护。"
     },
     {
       "id": "projects:Minireel/HGhub",
@@ -559,7 +591,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11648,
+      "stars": 11786,
       "language": "Rust",
       "titleZh": "Minireel/HGhub",
       "descriptionZh": "插件媒体播放器"
@@ -575,7 +607,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 12681,
+      "stars": 13031,
       "language": "Rust",
       "titleZh": "libracoder/kiri",
       "descriptionZh": "适用于macOS、Windows和Linux的小型快速容器运行时，提供免费的Ngrok替代方案"
@@ -591,7 +623,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8067,
+      "stars": 8350,
       "language": "Go",
       "titleZh": "Lee-xeo/Claude-Cage",
       "descriptionZh": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。"
@@ -607,7 +639,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 42175,
+      "stars": 42898,
       "language": "Rust",
       "titleZh": "storytold/craft-anything",
       "descriptionZh": "打造任何事物：了解任何软件的运作方式，并打造您自己的软件。"
@@ -623,7 +655,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10158,
+      "stars": 10233,
       "language": "C++",
       "titleZh": "zortos293/Lichii",
       "descriptionZh": "非常实验性的 Nintendo Switch 2 模拟器"
@@ -639,7 +671,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 24375,
+      "stars": 24489,
       "language": "TypeScript",
       "titleZh": "deepseek-ai/dsh-superagent-prototype",
       "descriptionZh": "迈向更自主的代理系统"
@@ -655,7 +687,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8903,
+      "stars": 9082,
       "language": "JavaScript",
       "titleZh": "patch-gg/pixelfx",
       "descriptionZh": "244 种像素艺术效果，每种效果都是一段小代码。此外，还有一项 Claude Code 技能，让您能够自行创作。"
@@ -685,7 +717,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 12699,
+      "stars": 13027,
       "language": "Python",
       "titleZh": "JuneYaooo/rea-video",
       "descriptionZh": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。"
@@ -701,7 +733,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 20873,
+      "stars": 21316,
       "language": "JavaScript",
       "titleZh": "heydamir/unslop",
       "descriptionZh": "一种 Claude 技能，可将采用 VibeCode 的、看起来像 AI 的 UI 转换为经过设计的界面"
@@ -717,7 +749,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9781,
+      "stars": 9878,
       "language": "Kotlin",
       "titleZh": "wangzan101/Mika",
       "descriptionZh": "一款适用于 Android 的设备端 AI 代理，可操作应用程序和网页为您完成任务。"
@@ -733,7 +765,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9500,
+      "stars": 9711,
       "language": "JavaScript",
       "titleZh": "RoutineMiku/apkstart",
       "descriptionZh": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时"
@@ -749,7 +781,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8140,
+      "stars": 8234,
       "language": "C",
       "titleZh": "valentderah/totk-pc-recomp",
       "descriptionZh": "将《塞尔达传说：王国之泪》静态重新编译为原生Windows和Linux x86-64版本，并使用Vulkan渲染器。不包含游戏文件。"
@@ -765,7 +797,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 7064,
+      "stars": 7623,
       "language": "JavaScript",
       "titleZh": "mdiri-ai/SoduWork",
       "descriptionZh": "面向团队及其代理的人工智能原生引擎。多线束、多代理、自托管。"
@@ -781,7 +813,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 17318,
+      "stars": 17822,
       "language": "Rust",
       "titleZh": "anefzaoui/misterdownloadmanager",
       "descriptionZh": "misterdownloadmanager：终极开源、无污染下载管理器，完全使用纯 Rust 语言从头编写，适用于 Windows、Mac 和 Linux"
@@ -825,7 +857,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 7952,
+      "stars": 8686,
       "language": "TypeScript",
       "titleZh": "anhao/ai-pose-gallery-zh",
       "descriptionZh": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
@@ -843,38 +875,6 @@
       "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.103.3",
       "translationKind": "category-summary"
-    },
-    {
-      "id": "projects:unclebob/ub-mode",
-      "kind": "project",
-      "title": "unclebob/ub-mode",
-      "repo": "unclebob/ub-mode",
-      "description": "暂无项目描述",
-      "url": "https://github.com/unclebob/ub-mode",
-      "publishedAt": "2026-10-25T16:04:09Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 8443,
-      "language": "未标注",
-      "titleZh": "unclebob/ub-mode",
-      "descriptionZh": "暂无项目描述"
-    },
-    {
-      "id": "projects:ccch1mneyyy/dsh-Go",
-      "kind": "project",
-      "title": "ccch1mneyyy/dsh-Go",
-      "repo": "ccch1mneyyy/dsh-Go",
-      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "publishedAt": "2026-10-25T08:09:52Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 30819,
-      "language": "Dart",
-      "titleZh": "ccch1mneyyy/dsh-Go",
-      "descriptionZh": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
     },
     {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.103.2",
@@ -1009,25 +1009,25 @@
       "label": "GitHub Blog",
       "url": "https://github.blog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-24T02:22:35.509Z",
-      "etag": "W/\"a2879f9ef2c2d8d6daadf27f4035e53a\"",
-      "lastModified": "Mon, 23 Nov 2026 22:36:19 GMT"
+      "updatedAt": "2026-11-25T02:24:42.052Z",
+      "etag": "W/\"d0b96e1057fa6a94834c4d202b203a4a\"",
+      "lastModified": "Tue, 24 Nov 2026 16:43:56 GMT"
     },
     {
       "id": "changelog",
       "label": "GitHub Changelog",
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-24T02:22:35.509Z",
-      "etag": "W/\"a2879f9ef2c2d8d6daadf27f4035e53a\"",
-      "lastModified": "Mon, 23 Nov 2026 22:36:19 GMT"
+      "updatedAt": "2026-11-25T02:24:42.052Z",
+      "etag": "W/\"d0b96e1057fa6a94834c4d202b203a4a\"",
+      "lastModified": "Tue, 24 Nov 2026 16:43:56 GMT"
     },
     {
       "id": "cli",
       "label": "GitHub CLI",
       "url": "https://github.com/cli/cli/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-24T02:22:35.509Z",
+      "updatedAt": "2026-11-25T02:24:42.052Z",
       "etag": "W/\"65135ac33a25a0616d78d2abf712b315\""
     },
     {
@@ -1035,7 +1035,7 @@
       "label": "Node.js",
       "url": "https://github.com/nodejs/node/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-24T02:22:35.509Z",
+      "updatedAt": "2026-11-25T02:24:42.052Z",
       "etag": "W/\"ce1759993ca3e851e37de21a212a23a0\""
     },
     {
@@ -1043,7 +1043,7 @@
       "label": "Vite",
       "url": "https://github.com/vitejs/vite/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-24T02:22:35.509Z",
+      "updatedAt": "2026-11-25T02:24:42.052Z",
       "etag": "W/\"60cfac06dbc0ac69483cb2f20d145f5a\""
     },
     {
@@ -1051,19 +1051,19 @@
       "label": "GitHub 近期新项目",
       "url": "https://api.github.com/search/repositories",
       "status": "ok",
-      "updatedAt": "2026-11-24T02:22:35.509Z"
+      "updatedAt": "2026-11-25T02:24:42.052Z"
     }
   ],
   "successfulSources": 6,
   "translation": {
     "provider": "MyMemory",
-    "requests": 10,
-    "translated": 10,
-    "cached": 49,
+    "requests": 6,
+    "translated": 6,
+    "cached": 54,
     "error": null,
-    "used": 1298,
+    "used": 647,
     "dailyBudget": 4000,
-    "checkedAt": "2026-11-24T02:22:45.345Z"
+    "checkedAt": "2026-11-25T02:24:47.813Z"
   },
   "automation": {
     "enabled": true,
