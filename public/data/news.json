@@ -1,7 +1,74 @@
 {
-  "updatedAt": "2026-11-25T02:24:42.052Z",
-  "lastAttemptAt": "2026-11-25T02:24:42.052Z",
+  "updatedAt": "2026-11-26T02:23:18.405Z",
+  "lastAttemptAt": "2026-11-26T02:23:18.405Z",
   "items": [
+    {
+      "id": "cli:https://github.com/cli/cli/releases/tag/v2.106.0",
+      "kind": "release",
+      "title": "GitHub CLI 2.106.0",
+      "description": "Security Seven security vulnerabilities have been identified and fixed in this release. Users are advised to update gh to version v2.106.0 as soon as possible. The terminal escape-sequence check used by gh repo read-file , gh api , and other commands did not recognize C1 control characters, allowing",
+      "url": "https://github.com/cli/cli/releases/tag/v2.106.0",
+      "publishedAt": "2026-11-25T22:57:46.000Z",
+      "source": "GitHub CLI",
+      "sourceId": "cli",
+      "tag": "版本发布",
+      "titleZh": "GitHub CLI 2.106.0",
+      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
+      "translationKind": "category-summary"
+    },
+    {
+      "id": "changelog:https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "kind": "official",
+      "title": "Copilot code review billing will default to the organization",
+      "description": "If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep…",
+      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "publishedAt": "2026-11-25T22:18:03.000Z",
+      "source": "GitHub Changelog",
+      "sourceId": "changelog",
+      "tag": "产品更新",
+      "titleZh": "Copilot 代码审核账单将默认为组织账单",
+      "descriptionZh": "如果您尚未选择如何向拥有 Copilot 许可证的成员收取 Copilot 代码审核费用，则从 2026 年 12 月 30 日起，这些审核费用将由您的组织承担。要继续……"
+    },
+    {
+      "id": "blog:https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "kind": "official",
+      "title": "Art of play in the age of AI",
+      "description": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers.",
+      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "publishedAt": "2026-11-25T16:00:00.000Z",
+      "source": "GitHub Blog",
+      "sourceId": "blog",
+      "tag": "官方博客",
+      "titleZh": "人工智能时代的游艺之道",
+      "descriptionZh": "现在，代码的交付速度比以往任何时候都快，您有更多时间可以投入到纯粹出于兴趣的项目中。以下是我们作为开发者可以通过这个过程学到的东西。"
+    },
+    {
+      "id": "blog:https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "kind": "official",
+      "title": "How to choose the next safe step in application modernization",
+      "description": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "source": "GitHub Blog",
+      "sourceId": "blog",
+      "tag": "官方博客",
+      "titleZh": "如何选择应用程序现代化的下一个安全步骤",
+      "descriptionZh": "了解如何评估旧版应用程序、选择有界限的现代化改造步骤，以及如何使用 GitHub Copilot 代理技能重复使用该方法。"
+    },
+    {
+      "id": "vite:https://github.com/vitejs/vite/releases/tag/v8.4.0-beta.2",
+      "kind": "release",
+      "title": "Vite · v8.4.0-beta.2",
+      "description": "Features add plugin name to hook errors ( #24107 ) ( 40475e5 ) add plugin name to module hook errors ( #24151 ) ( e1e1ac8 ) Bug Fixes close server on failed start (fix #23965 ) ( #24020 ) ( c732677 ) css: dedupe CSS of inlined common chunks when cssCodeSplit: false ( #24168 ) ( 1b34d86 ) deps: updat",
+      "url": "https://github.com/vitejs/vite/releases/tag/v8.4.0-beta.2",
+      "publishedAt": "2026-11-25T05:13:48.000Z",
+      "source": "Vite",
+      "sourceId": "vite",
+      "tag": "版本发布",
+      "titleZh": "Vite · v8.4.0-beta.2",
+      "descriptionZh": "Vite 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
+      "translationKind": "category-summary"
+    },
     {
       "id": "changelog:https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
       "kind": "official",
@@ -39,7 +106,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11459,
+      "stars": 12648,
       "language": "Rust",
       "titleZh": "Marvisak/VIctory",
       "descriptionZh": "尝试在PC上运行《GTA VI》"
@@ -133,7 +200,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 7886,
+      "stars": 8333,
       "language": "Rust",
       "titleZh": "xcl-dev/xcl",
       "descriptionZh": "适用于 Windows 的 Xbox Series 兼容层——以原生方式运行主机游戏代码，重新实现主机系统库并重新编译 RDNA2 着色器为 DXIL"
@@ -163,19 +230,6 @@
       "tag": "产品更新",
       "titleZh": "GitHub Desktop 现在支持每个主机使用多个账户",
       "descriptionZh": "GitHub Desktop 现在允许您在同一主机上使用多个账户登录，包括 GitHub.com、GitHub Enterprise Server 和 GHE.com。这是最……的功能之一。"
-    },
-    {
-      "id": "changelog:https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "kind": "official",
-      "title": "Improvements on the pull request overview in public preview",
-      "description": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here’s what’s new! Clearer merge status and next steps Failed optional checks…",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "publishedAt": "2026-11-20T00:02:21.000Z",
-      "source": "GitHub Changelog",
-      "sourceId": "changelog",
-      "tag": "产品更新",
-      "titleZh": "对公测版中拉取请求概览的改进",
-      "descriptionZh": "自2026年11月5日公测以来，您的反馈帮助我们改进了新的“拉取请求概览”页面。以下是新功能！更清晰的合并状态和后续步骤可选检查未通过……"
     },
     {
       "id": "blog:https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
@@ -269,7 +323,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9248,
+      "stars": 9645,
       "language": "Rust",
       "titleZh": "erkamyaman/rust-anything",
       "descriptionZh": "使用 Rust 逐一重写整个应用程序，每一步都要对照原始应用程序的记录行为进行检查。TypeScript、Python、C、Go、Ruby 和 Java 中的 CLI、HTTP 服务器和库。"
@@ -324,8 +378,8 @@
       "source": "GitHub CLI",
       "sourceId": "cli",
       "tag": "版本发布",
-      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.104.0",
+      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "translationKind": "category-summary"
     },
     {
@@ -492,7 +546,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8913,
+      "stars": 8963,
       "language": "Swift",
       "titleZh": "huami1314/GestaltX",
       "descriptionZh": "适用于 iOS 27.x 的 MobileGestalt 编辑器，具备区域代码调整、设备预设、备份等功能。"
@@ -511,32 +565,6 @@
       "descriptionZh": "编写代码的速度更快了。但与之相关的工作并没有加快。了解如何使用 GitHub Copilot 进行规划、编写代码、审核更改和调查生产问题，以及哪些工作仍需要您做出判断。"
     },
     {
-      "id": "blog:https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "kind": "official",
-      "title": "Inside GitHub’s new Git storage architecture",
-      "description": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "publishedAt": "2026-11-05T20:23:21.000Z",
-      "source": "GitHub Blog",
-      "sourceId": "blog",
-      "tag": "官方博客",
-      "titleZh": "GitHub 新的 Git 存储架构详解",
-      "descriptionZh": "GitHub 的新 Git 存储架构旨在让数千个代理能够同时推送到单个仓库。其工作原理如下。"
-    },
-    {
-      "id": "blog:https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "kind": "official",
-      "title": "Accessibility statements now have a home on GitHub",
-      "description": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.",
-      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "source": "GitHub Blog",
-      "sourceId": "blog",
-      "tag": "官方博客",
-      "titleZh": "无障碍声明现已在 GitHub 上有专属页面",
-      "descriptionZh": "GitHub 现在突出显示 ACCESSIBILITY.md 文件，并帮助维护者记录无障碍目标、已知障碍、支持的环境、对贡献者的期望以及报告流程。"
-    },
-    {
       "id": "vite:https://github.com/vitejs/vite/releases/tag/v8.3.6",
       "kind": "release",
       "title": "Vite · v8.3.6",
@@ -551,20 +579,6 @@
       "translationKind": "category-summary"
     },
     {
-      "id": "vite:https://github.com/vitejs/vite/releases/tag/plugin-legacy%408.2.4",
-      "kind": "release",
-      "title": "Vite · plugin-legacy@8.2.4",
-      "description": "Bug Fixes deps: update all non-major dependencies ( #23217 ) ( ba958bd ) deps: update all non-major dependencies ( #23337 ) ( d550815 ) deps: update all non-major dependencies ( #23404 ) ( 238ad81 ) deps: update all non-major dependencies ( #23445 ) ( fc7c104 ) deps: update all non-major dependencie",
-      "url": "https://github.com/vitejs/vite/releases/tag/plugin-legacy%408.2.4",
-      "publishedAt": "2026-11-05T05:42:26.000Z",
-      "source": "Vite",
-      "sourceId": "vite",
-      "tag": "版本发布",
-      "titleZh": "Vite · plugin-legacy@8.2.4",
-      "descriptionZh": "Vite 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
-      "translationKind": "category-summary"
-    },
-    {
       "id": "projects:janestreet/agent_skills",
       "kind": "project",
       "title": "janestreet/agent_skills",
@@ -575,7 +589,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11617,
+      "stars": 11835,
       "language": "未标注",
       "titleZh": "janestreet/agent_skills",
       "descriptionZh": "客服代表技能"
@@ -591,7 +605,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11786,
+      "stars": 11935,
       "language": "Rust",
       "titleZh": "Minireel/HGhub",
       "descriptionZh": "插件媒体播放器"
@@ -607,7 +621,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 13031,
+      "stars": 13431,
       "language": "Rust",
       "titleZh": "libracoder/kiri",
       "descriptionZh": "适用于macOS、Windows和Linux的小型快速容器运行时，提供免费的Ngrok替代方案"
@@ -623,7 +637,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8350,
+      "stars": 8574,
       "language": "Go",
       "titleZh": "Lee-xeo/Claude-Cage",
       "descriptionZh": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。"
@@ -639,7 +653,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 42898,
+      "stars": 43551,
       "language": "Rust",
       "titleZh": "storytold/craft-anything",
       "descriptionZh": "打造任何事物：了解任何软件的运作方式，并打造您自己的软件。"
@@ -655,7 +669,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10233,
+      "stars": 10283,
       "language": "C++",
       "titleZh": "zortos293/Lichii",
       "descriptionZh": "非常实验性的 Nintendo Switch 2 模拟器"
@@ -671,7 +685,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 24489,
+      "stars": 24592,
       "language": "TypeScript",
       "titleZh": "deepseek-ai/dsh-superagent-prototype",
       "descriptionZh": "迈向更自主的代理系统"
@@ -687,7 +701,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9082,
+      "stars": 9270,
       "language": "JavaScript",
       "titleZh": "patch-gg/pixelfx",
       "descriptionZh": "244 种像素艺术效果，每种效果都是一段小代码。此外，还有一项 Claude Code 技能，让您能够自行创作。"
@@ -717,7 +731,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 13027,
+      "stars": 13401,
       "language": "Python",
       "titleZh": "JuneYaooo/rea-video",
       "descriptionZh": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。"
@@ -733,7 +747,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 21316,
+      "stars": 21760,
       "language": "JavaScript",
       "titleZh": "heydamir/unslop",
       "descriptionZh": "一种 Claude 技能，可将采用 VibeCode 的、看起来像 AI 的 UI 转换为经过设计的界面"
@@ -749,7 +763,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9878,
+      "stars": 10003,
       "language": "Kotlin",
       "titleZh": "wangzan101/Mika",
       "descriptionZh": "一款适用于 Android 的设备端 AI 代理，可操作应用程序和网页为您完成任务。"
@@ -765,7 +779,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9711,
+      "stars": 9858,
       "language": "JavaScript",
       "titleZh": "RoutineMiku/apkstart",
       "descriptionZh": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时"
@@ -781,7 +795,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8234,
+      "stars": 8293,
       "language": "C",
       "titleZh": "valentderah/totk-pc-recomp",
       "descriptionZh": "将《塞尔达传说：王国之泪》静态重新编译为原生Windows和Linux x86-64版本，并使用Vulkan渲染器。不包含游戏文件。"
@@ -797,7 +811,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 7623,
+      "stars": 8123,
       "language": "JavaScript",
       "titleZh": "mdiri-ai/SoduWork",
       "descriptionZh": "面向团队及其代理的人工智能原生引擎。多线束、多代理、自托管。"
@@ -813,7 +827,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 17822,
+      "stars": 18197,
       "language": "Rust",
       "titleZh": "anefzaoui/misterdownloadmanager",
       "descriptionZh": "misterdownloadmanager：终极开源、无污染下载管理器，完全使用纯 Rust 语言从头编写，适用于 Windows、Mac 和 Linux"
@@ -857,7 +871,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8686,
+      "stars": 9221,
       "language": "TypeScript",
       "titleZh": "anhao/ai-pose-gallery-zh",
       "descriptionZh": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
@@ -872,8 +886,8 @@
       "source": "GitHub CLI",
       "sourceId": "cli",
       "tag": "版本发布",
-      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.103.3",
+      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "translationKind": "category-summary"
     },
     {
@@ -886,8 +900,8 @@
       "source": "GitHub CLI",
       "sourceId": "cli",
       "tag": "版本发布",
-      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.103.2",
+      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "translationKind": "category-summary"
     },
     {
@@ -900,8 +914,8 @@
       "source": "GitHub CLI",
       "sourceId": "cli",
       "tag": "版本发布",
-      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.103.1",
+      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "translationKind": "category-summary"
     },
     {
@@ -914,8 +928,8 @@
       "source": "GitHub CLI",
       "sourceId": "cli",
       "tag": "版本发布",
-      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.103.0",
+      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "translationKind": "category-summary"
     },
     {
@@ -956,8 +970,8 @@
       "source": "GitHub CLI",
       "sourceId": "cli",
       "tag": "版本发布",
-      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.102.1",
+      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "translationKind": "category-summary"
     },
     {
@@ -970,8 +984,8 @@
       "source": "GitHub CLI",
       "sourceId": "cli",
       "tag": "版本发布",
-      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.102.0",
+      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "translationKind": "category-summary"
     },
     {
@@ -984,22 +998,8 @@
       "source": "GitHub CLI",
       "sourceId": "cli",
       "tag": "版本发布",
-      "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "titleZh": "GitHub CLI 2.101.0",
-      "translationKind": "category-summary"
-    },
-    {
-      "id": "cli:https://github.com/cli/cli/releases/tag/v2.100.0",
-      "kind": "release",
-      "title": "GitHub CLI 2.100.0",
-      "description": "Experimental: Route GitHub API traffic through a custom host Organizations can now route a GitHub host's API traffic through a gateway using the new per-host api_host configuration: # Route API traffic for github.com through a gateway gh config set api_host gh-gateway.example.com --host github.com #",
-      "url": "https://github.com/cli/cli/releases/tag/v2.100.0",
-      "publishedAt": "2026-09-03T15:46:30.000Z",
-      "source": "GitHub CLI",
-      "sourceId": "cli",
-      "tag": "版本发布",
       "descriptionZh": "GitHub CLI 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
-      "titleZh": "GitHub CLI 2.100.0",
       "translationKind": "category-summary"
     }
   ],
@@ -1009,33 +1009,33 @@
       "label": "GitHub Blog",
       "url": "https://github.blog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-25T02:24:42.052Z",
-      "etag": "W/\"d0b96e1057fa6a94834c4d202b203a4a\"",
-      "lastModified": "Tue, 24 Nov 2026 16:43:56 GMT"
+      "updatedAt": "2026-11-26T02:23:18.405Z",
+      "etag": "W/\"4be869134215f375cc5cdb38b1431f09\"",
+      "lastModified": "Wed, 25 Nov 2026 22:19:24 GMT"
     },
     {
       "id": "changelog",
       "label": "GitHub Changelog",
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-25T02:24:42.052Z",
-      "etag": "W/\"d0b96e1057fa6a94834c4d202b203a4a\"",
-      "lastModified": "Tue, 24 Nov 2026 16:43:56 GMT"
+      "updatedAt": "2026-11-26T02:23:18.405Z",
+      "etag": "W/\"4be869134215f375cc5cdb38b1431f09\"",
+      "lastModified": "Wed, 25 Nov 2026 22:19:24 GMT"
     },
     {
       "id": "cli",
       "label": "GitHub CLI",
       "url": "https://github.com/cli/cli/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-25T02:24:42.052Z",
-      "etag": "W/\"65135ac33a25a0616d78d2abf712b315\""
+      "updatedAt": "2026-11-26T02:23:18.405Z",
+      "etag": "W/\"4d9fddf3c97c76fc63c16aa6137dcf41\""
     },
     {
       "id": "node",
       "label": "Node.js",
       "url": "https://github.com/nodejs/node/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-25T02:24:42.052Z",
+      "updatedAt": "2026-11-26T02:23:18.405Z",
       "etag": "W/\"ce1759993ca3e851e37de21a212a23a0\""
     },
     {
@@ -1043,15 +1043,15 @@
       "label": "Vite",
       "url": "https://github.com/vitejs/vite/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-25T02:24:42.052Z",
-      "etag": "W/\"60cfac06dbc0ac69483cb2f20d145f5a\""
+      "updatedAt": "2026-11-26T02:23:18.405Z",
+      "etag": "W/\"c7772a7159f9f216459b45690ec95d78\""
     },
     {
       "id": "projects",
       "label": "GitHub 近期新项目",
       "url": "https://api.github.com/search/repositories",
       "status": "ok",
-      "updatedAt": "2026-11-25T02:24:42.052Z"
+      "updatedAt": "2026-11-26T02:23:18.405Z"
     }
   ],
   "successfulSources": 6,
@@ -1061,9 +1061,9 @@
     "translated": 6,
     "cached": 54,
     "error": null,
-    "used": 647,
+    "used": 621,
     "dailyBudget": 4000,
-    "checkedAt": "2026-11-25T02:24:47.813Z"
+    "checkedAt": "2026-11-26T02:23:24.696Z"
   },
   "automation": {
     "enabled": true,
