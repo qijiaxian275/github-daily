@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-11-26T02:23:18.405Z",
-  "lastAttemptAt": "2026-11-26T02:23:18.405Z",
+  "updatedAt": "2026-11-27T02:24:05.178Z",
+  "lastAttemptAt": "2026-11-27T02:24:05.178Z",
   "items": [
+    {
+      "id": "vite:https://github.com/vitejs/vite/releases/tag/v8.4.0",
+      "kind": "release",
+      "title": "Vite · v8.4.0",
+      "description": "Features add plugin name to hook errors ( #24107 ) ( 40475e5 ) add plugin name to module hook errors ( #24151 ) ( e1e1ac8 ) add environment.addSafeModule ( #23974 ) ( e0fe98a ) add server.fs.strict: 'extended' ( #23972 ) ( e4babd7 ) build: include worker chunks in manifest ( #23699 ) ( bc6e03c ) bui",
+      "url": "https://github.com/vitejs/vite/releases/tag/v8.4.0",
+      "publishedAt": "2026-11-26T11:05:04.000Z",
+      "source": "Vite",
+      "sourceId": "vite",
+      "tag": "版本发布",
+      "titleZh": "Vite · v8.4.0",
+      "descriptionZh": "Vite 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
+      "translationKind": "category-summary"
+    },
+    {
+      "id": "vite:https://github.com/vitejs/vite/releases/tag/create-vite%409.4.0",
+      "kind": "release",
+      "title": "Vite · create-vite@9.4.0",
+      "description": "Features create-vite: add devtools option ( #23833 ) ( f0a0b5a ) create-vite: support Vite+ (vp) package manager ( #22788 ) ( 4d21dc4 ) create-vite: use Solid 2 in solid templates ( #24130 ) ( 3dfda24 ) Bug Fixes deps: update all non-major dependencies ( #24027 ) ( a13aa04 ) deps: update all non-maj",
+      "url": "https://github.com/vitejs/vite/releases/tag/create-vite%409.4.0",
+      "publishedAt": "2026-11-26T10:59:41.000Z",
+      "source": "Vite",
+      "sourceId": "vite",
+      "tag": "版本发布",
+      "titleZh": "Vite · create-vite@9.4.0",
+      "descriptionZh": "Vite 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
+      "translationKind": "category-summary"
+    },
+    {
+      "id": "node:https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.2.0",
+      "kind": "release",
+      "title": "Node.js · 2026-11-26, Version 27.0.0-alpha.0.2.0 (Alpha), @aduh95",
+      "description": "Notable Changes [ 79db466ecc ] - doc : deprecate util.TextDecoder and util.TextEncoder (LiviaMedeiros) #67461 [ ba3e5c93a3 ] - (SEMVER-MINOR) http2 : add writeProcessing to compat response (Yuya Inoue) #67728 [ bdd02b128c ] - (SEMVER-MINOR) http2 : add missing setHeaders (jakecastelli) #67597 [ 0a67",
+      "url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.2.0",
+      "publishedAt": "2026-11-26T10:29:06.000Z",
+      "source": "Node.js",
+      "sourceId": "node",
+      "tag": "版本发布",
+      "titleZh": "Node.js · 2026-11-26, Version 27.0.0-alpha.0.2.0 (Alpha), @aduh95",
+      "descriptionZh": "Node.js 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
+      "translationKind": "category-summary"
+    },
     {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.106.0",
       "kind": "release",
@@ -106,7 +148,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 12648,
+      "stars": 13400,
       "language": "Rust",
       "titleZh": "Marvisak/VIctory",
       "descriptionZh": "尝试在PC上运行《GTA VI》"
@@ -200,7 +242,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8333,
+      "stars": 8620,
       "language": "Rust",
       "titleZh": "xcl-dev/xcl",
       "descriptionZh": "适用于 Windows 的 Xbox Series 兼容层——以原生方式运行主机游戏代码，重新实现主机系统库并重新编译 RDNA2 着色器为 DXIL"
@@ -317,16 +359,16 @@
       "kind": "project",
       "title": "erkamyaman/rust-anything",
       "repo": "erkamyaman/rust-anything",
-      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "description": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.",
       "url": "https://github.com/erkamyaman/rust-anything",
       "publishedAt": "2026-11-16T12:10:36Z",
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9645,
+      "stars": 10257,
       "language": "Rust",
       "titleZh": "erkamyaman/rust-anything",
-      "descriptionZh": "使用 Rust 逐一重写整个应用程序，每一步都要对照原始应用程序的记录行为进行检查。TypeScript、Python、C、Go、Ruby 和 Java 中的 CLI、HTTP 服务器和库。"
+      "descriptionZh": "使用 Rust 逐一重写您的应用程序，并在每一步都与原版进行比对。适用于 TypeScript、JavaScript、Python、Go、Ruby、Java、C、PHP、C#、Kotlin 和 PowerShell。"
     },
     {
       "id": "vite:https://github.com/vitejs/vite/releases/tag/v8.4.0-beta.1",
@@ -466,20 +508,6 @@
       "translationKind": "category-summary"
     },
     {
-      "id": "vite:https://github.com/vitejs/vite/releases/tag/v6.4.6",
-      "kind": "release",
-      "title": "Vite · v6.4.6",
-      "description": "Please refer to CHANGELOG.md for details.",
-      "url": "https://github.com/vitejs/vite/releases/tag/v6.4.6",
-      "publishedAt": "2026-11-09T11:03:41.000Z",
-      "source": "Vite",
-      "sourceId": "vite",
-      "tag": "版本发布",
-      "titleZh": "Vite · v6.4.6",
-      "descriptionZh": "Vite 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
-      "translationKind": "category-summary"
-    },
-    {
       "id": "vite:https://github.com/vitejs/vite/releases/tag/v7.3.8",
       "kind": "release",
       "title": "Vite · v7.3.8",
@@ -546,10 +574,26 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8963,
+      "stars": 9019,
       "language": "Swift",
       "titleZh": "huami1314/GestaltX",
       "descriptionZh": "适用于 iOS 27.x 的 MobileGestalt 编辑器，具备区域代码调整、设备预设、备份等功能。"
+    },
+    {
+      "id": "projects:ersinkoc/phonebox",
+      "kind": "project",
+      "title": "ersinkoc/phonebox",
+      "repo": "ersinkoc/phonebox",
+      "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
+      "url": "https://github.com/ersinkoc/phonebox",
+      "publishedAt": "2026-11-07T16:45:16Z",
+      "source": "GitHub 近期新项目",
+      "sourceId": "projects",
+      "tag": "近 30 天创建",
+      "stars": 7324,
+      "language": "JavaScript",
+      "titleZh": "ersinkoc/phonebox",
+      "descriptionZh": "将旧的安卓手机变成可定制的桌面面板和触摸控制面板，适用于 Windows、Linux 和 macOS。提供 124 个小部件和 30 个模板，用于系统统计、AI 编程、媒体和自动化，支持 13 种语言。USB 或配对的 Wi-Fi。无需云端。"
     },
     {
       "id": "blog:https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
@@ -565,20 +609,6 @@
       "descriptionZh": "编写代码的速度更快了。但与之相关的工作并没有加快。了解如何使用 GitHub Copilot 进行规划、编写代码、审核更改和调查生产问题，以及哪些工作仍需要您做出判断。"
     },
     {
-      "id": "vite:https://github.com/vitejs/vite/releases/tag/v8.3.6",
-      "kind": "release",
-      "title": "Vite · v8.3.6",
-      "description": "Bug Fixes await overlapping plugin container close calls ( #23935 ) ( 175bbeb ) build: resolve dynamic imports with queries appended when collecting CSS dependencies ( #23909 ) ( df36558 ) build: use stable module ids in chunk import map hash signatures (fix #23975 ) ( #23976 ) ( 8069835 ) bundled-d",
-      "url": "https://github.com/vitejs/vite/releases/tag/v8.3.6",
-      "publishedAt": "2026-11-05T05:57:16.000Z",
-      "source": "Vite",
-      "sourceId": "vite",
-      "tag": "版本发布",
-      "titleZh": "Vite · v8.3.6",
-      "descriptionZh": "Vite 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
-      "translationKind": "category-summary"
-    },
-    {
       "id": "projects:janestreet/agent_skills",
       "kind": "project",
       "title": "janestreet/agent_skills",
@@ -589,7 +619,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11835,
+      "stars": 11968,
       "language": "未标注",
       "titleZh": "janestreet/agent_skills",
       "descriptionZh": "客服代表技能"
@@ -605,7 +635,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 11935,
+      "stars": 12088,
       "language": "Rust",
       "titleZh": "Minireel/HGhub",
       "descriptionZh": "插件媒体播放器"
@@ -621,7 +651,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 13431,
+      "stars": 13852,
       "language": "Rust",
       "titleZh": "libracoder/kiri",
       "descriptionZh": "适用于macOS、Windows和Linux的小型快速容器运行时，提供免费的Ngrok替代方案"
@@ -637,7 +667,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8574,
+      "stars": 8813,
       "language": "Go",
       "titleZh": "Lee-xeo/Claude-Cage",
       "descriptionZh": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。"
@@ -653,7 +683,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 43551,
+      "stars": 44173,
       "language": "Rust",
       "titleZh": "storytold/craft-anything",
       "descriptionZh": "打造任何事物：了解任何软件的运作方式，并打造您自己的软件。"
@@ -669,7 +699,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10283,
+      "stars": 10331,
       "language": "C++",
       "titleZh": "zortos293/Lichii",
       "descriptionZh": "非常实验性的 Nintendo Switch 2 模拟器"
@@ -685,7 +715,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 24592,
+      "stars": 24679,
       "language": "TypeScript",
       "titleZh": "deepseek-ai/dsh-superagent-prototype",
       "descriptionZh": "迈向更自主的代理系统"
@@ -701,7 +731,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9270,
+      "stars": 9474,
       "language": "JavaScript",
       "titleZh": "patch-gg/pixelfx",
       "descriptionZh": "244 种像素艺术效果，每种效果都是一段小代码。此外，还有一项 Claude Code 技能，让您能够自行创作。"
@@ -731,7 +761,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 13401,
+      "stars": 13708,
       "language": "Python",
       "titleZh": "JuneYaooo/rea-video",
       "descriptionZh": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。"
@@ -747,7 +777,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 21760,
+      "stars": 22246,
       "language": "JavaScript",
       "titleZh": "heydamir/unslop",
       "descriptionZh": "一种 Claude 技能，可将采用 VibeCode 的、看起来像 AI 的 UI 转换为经过设计的界面"
@@ -763,7 +793,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 10003,
+      "stars": 10083,
       "language": "Kotlin",
       "titleZh": "wangzan101/Mika",
       "descriptionZh": "一款适用于 Android 的设备端 AI 代理，可操作应用程序和网页为您完成任务。"
@@ -779,7 +809,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 9858,
+      "stars": 9990,
       "language": "JavaScript",
       "titleZh": "RoutineMiku/apkstart",
       "descriptionZh": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时"
@@ -795,7 +825,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8293,
+      "stars": 8342,
       "language": "C",
       "titleZh": "valentderah/totk-pc-recomp",
       "descriptionZh": "将《塞尔达传说：王国之泪》静态重新编译为原生Windows和Linux x86-64版本，并使用Vulkan渲染器。不包含游戏文件。"
@@ -811,7 +841,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 8123,
+      "stars": 8249,
       "language": "JavaScript",
       "titleZh": "mdiri-ai/SoduWork",
       "descriptionZh": "面向团队及其代理的人工智能原生引擎。多线束、多代理、自托管。"
@@ -827,7 +857,7 @@
       "source": "GitHub 近期新项目",
       "sourceId": "projects",
       "tag": "近 30 天创建",
-      "stars": 18197,
+      "stars": 18558,
       "language": "Rust",
       "titleZh": "anefzaoui/misterdownloadmanager",
       "descriptionZh": "misterdownloadmanager：终极开源、无污染下载管理器，完全使用纯 Rust 语言从头编写，适用于 Windows、Mac 和 Linux"
@@ -859,22 +889,6 @@
       "titleZh": "Node.js · 2026-10-28, Version 26.13.0 'Lithium' (LTS), @richardlau",
       "descriptionZh": "Node.js 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
       "translationKind": "category-summary"
-    },
-    {
-      "id": "projects:anhao/ai-pose-gallery-zh",
-      "kind": "project",
-      "title": "anhao/ai-pose-gallery-zh",
-      "repo": "anhao/ai-pose-gallery-zh",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "publishedAt": "2026-10-27T12:24:37Z",
-      "source": "GitHub 近期新项目",
-      "sourceId": "projects",
-      "tag": "近 30 天创建",
-      "stars": 9221,
-      "language": "TypeScript",
-      "titleZh": "anhao/ai-pose-gallery-zh",
-      "descriptionZh": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
     },
     {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.103.3",
@@ -947,20 +961,6 @@
       "translationKind": "category-summary"
     },
     {
-      "id": "node:https://github.com/nodejs/node/releases/tag/v24.22.1",
-      "kind": "release",
-      "title": "Node.js · 2026-10-21, Version 24.22.1 'Krypton' (LTS), @aduh95",
-      "description": "This is a security release. Notable Changes ( CVE-2026-105481 ) http: ensure agent data guard works without I/O (James M Snell) ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) ( CVE-2026-105483 ) tls: fix ip normalization regression (James M Snell) ( CVE-2026-106069 )",
-      "url": "https://github.com/nodejs/node/releases/tag/v24.22.1",
-      "publishedAt": "2026-10-21T10:38:25.000Z",
-      "source": "Node.js",
-      "sourceId": "node",
-      "tag": "版本发布",
-      "titleZh": "Node.js · 2026-10-21, Version 24.22.1 'Krypton' (LTS), @aduh95",
-      "descriptionZh": "Node.js 版本动态。详细改动、修复和升级说明请查看原始发布记录。",
-      "translationKind": "category-summary"
-    },
-    {
       "id": "cli:https://github.com/cli/cli/releases/tag/v2.102.1",
       "kind": "release",
       "title": "GitHub CLI 2.102.1",
@@ -1009,7 +1009,7 @@
       "label": "GitHub Blog",
       "url": "https://github.blog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-26T02:23:18.405Z",
+      "updatedAt": "2026-11-27T02:24:05.178Z",
       "etag": "W/\"4be869134215f375cc5cdb38b1431f09\"",
       "lastModified": "Wed, 25 Nov 2026 22:19:24 GMT"
     },
@@ -1018,7 +1018,7 @@
       "label": "GitHub Changelog",
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
-      "updatedAt": "2026-11-26T02:23:18.405Z",
+      "updatedAt": "2026-11-27T02:24:05.178Z",
       "etag": "W/\"4be869134215f375cc5cdb38b1431f09\"",
       "lastModified": "Wed, 25 Nov 2026 22:19:24 GMT"
     },
@@ -1027,7 +1027,7 @@
       "label": "GitHub CLI",
       "url": "https://github.com/cli/cli/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-26T02:23:18.405Z",
+      "updatedAt": "2026-11-27T02:24:05.178Z",
       "etag": "W/\"4d9fddf3c97c76fc63c16aa6137dcf41\""
     },
     {
@@ -1035,35 +1035,35 @@
       "label": "Node.js",
       "url": "https://github.com/nodejs/node/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-26T02:23:18.405Z",
-      "etag": "W/\"ce1759993ca3e851e37de21a212a23a0\""
+      "updatedAt": "2026-11-27T02:24:05.178Z",
+      "etag": "W/\"dad78bc5441030be65a59673f515d549\""
     },
     {
       "id": "vite",
       "label": "Vite",
       "url": "https://github.com/vitejs/vite/releases.atom",
       "status": "ok",
-      "updatedAt": "2026-11-26T02:23:18.405Z",
-      "etag": "W/\"c7772a7159f9f216459b45690ec95d78\""
+      "updatedAt": "2026-11-27T02:24:05.178Z",
+      "etag": "W/\"5f7cf426102a08cc357a388e6eda4fe3\""
     },
     {
       "id": "projects",
       "label": "GitHub 近期新项目",
       "url": "https://api.github.com/search/repositories",
       "status": "ok",
-      "updatedAt": "2026-11-26T02:23:18.405Z"
+      "updatedAt": "2026-11-27T02:24:05.178Z"
     }
   ],
   "successfulSources": 6,
   "translation": {
     "provider": "MyMemory",
-    "requests": 6,
-    "translated": 6,
-    "cached": 54,
+    "requests": 2,
+    "translated": 2,
+    "cached": 58,
     "error": null,
-    "used": 621,
+    "used": 425,
     "dailyBudget": 4000,
-    "checkedAt": "2026-11-26T02:23:24.696Z"
+    "checkedAt": "2026-11-27T02:24:08.516Z"
   },
   "automation": {
     "enabled": true,

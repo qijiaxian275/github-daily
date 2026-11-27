@@ -660,8 +660,16 @@
     "3647922dc21b54256405d223abb984df2d1e3d49bf2f311bdaeef005d1c7b1e0": {
       "text": "了解如何评估旧版应用程序、选择有界限的现代化改造步骤，以及如何使用 GitHub Copilot 代理技能重复使用该方法。",
       "at": "2026-11-26T02:23:24.696Z"
+    },
+    "c307e047152af34687da76d80ea70849c7e4048e346b0473c1c6e82a11a82b4f": {
+      "text": "使用 Rust 逐一重写您的应用程序，并在每一步都与原版进行比对。适用于 TypeScript、JavaScript、Python、Go、Ruby、Java、C、PHP、C#、Kotlin 和 PowerShell。",
+      "at": "2026-11-27T02:24:07.218Z"
+    },
+    "8d7f3df9a9daf4c9be16ba6c028d83d1288f6d14af41d8e55bb736ad8c3167df": {
+      "text": "将旧的安卓手机变成可定制的桌面面板和触摸控制面板，适用于 Windows、Linux 和 macOS。提供 124 个小部件和 30 个模板，用于系统统计、AI 编程、媒体和自动化，支持 13 种语言。USB 或配对的 Wi-Fi。无需云端。",
+      "at": "2026-11-27T02:24:08.516Z"
     }
   },
-  "day": "2026-11-26",
-  "used": 621
+  "day": "2026-11-27",
+  "used": 425
 }
